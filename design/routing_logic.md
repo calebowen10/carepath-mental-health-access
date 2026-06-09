@@ -57,3 +57,74 @@ Recommended options:
 - Peer support
 - Routine appointment
 - Digital check-in
+
+## Access Barrier Logic
+
+After CarePath identifies urgency level, the system checks for access barriers. These barriers help adjust the recommended support option.
+
+### Transportation Barrier
+
+If the user reports a transportation barrier, prioritize:
+- Telehealth
+- Phone-based support
+- Local/mobile options
+- Services close to the user
+
+### Digital Access Barrier
+
+If the user reports limited internet, device access, or difficulty using online tools, prioritize:
+- Phone-based support
+- In-person support
+- Care navigator outreach
+- Simple low-tech resources
+
+### Insurance Barrier
+
+If the user reports an insurance barrier, prioritize:
+- Community mental health resources
+- Low-cost options
+- Sliding-scale providers
+- Public programs
+- Care navigator support
+
+### Peer Support Preference
+
+If the user prefers peer support, include:
+- Peer support groups
+- Community-based support
+- Support groups
+- Warmline or non-crisis peer resources
+
+## Example User Scenarios
+
+### Example 1
+
+User reports mild stress, no safety concern, and wants coping tools.
+
+Routing:
+- Urgency level: Low
+- Recommended support: Self-guided resources and digital check-in
+
+### Example 2
+
+User reports worsening anxiety, trouble functioning at work, and limited support.
+
+Routing:
+- Urgency level: Moderate
+- Recommended support: Telehealth appointment or care navigator follow-up
+
+### Example 3
+
+User reports feeling unsafe and needing urgent support.
+
+Routing:
+- Urgency level: High
+- Recommended support: Crisis line, mobile crisis, or urgent behavioral health support
+
+### Example 4
+
+User reports moderate distress but also has no transportation.
+
+Routing:
+- Urgency level: Moderate
+- Access adjustment: Prioritize telehealth, phone support, or local/mobile options
