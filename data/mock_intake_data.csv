@@ -1,1 +1,1001 @@
 user_id,intake_date,age_group,county,presenting_need,urgency_level,preferred_support_type,insurance_barrier,transportation_barrier,digital_access_barrier,recommended_support_level,referral_status,days_to_first_contact,wait_time_days,follow_up_completed,no_show_risk
+U0001,2026-06-13,45-54,Hartford,Anxiety/stress,Low,Care navigator,No,No,No,Self-guided resources,Completed,22,25,Yes,Low
+U0002,2026-02-20,25-34,Fairfield,School/work stress,Moderate,In-person therapy,No,No,No,Telehealth appointment,Pending,13,14,No,Moderate
+U0003,2026-03-28,13-17,New London,Anxiety/stress,Low,Self-guided resources,Yes,No,No,Self-guided resources,Pending,27,30,No,Low
+U0004,2026-06-08,25-34,Windham,Trauma-related concern,Moderate,Self-guided resources,Yes,Yes,No,Care navigator follow-up,Referred elsewhere,2,3,No,Moderate
+U0005,2026-04-04,18-24,Windham,Depression/mood,Moderate,Crisis support,Yes,No,No,Telehealth appointment,Pending,10,11,No,Moderate
+U0006,2026-03-11,25-34,New Haven,School/work stress,Moderate,In-person therapy,Yes,No,No,Telehealth appointment,Abandoned,5,5,No,Moderate
+U0007,2026-05-26,55+,Tolland,School/work stress,Low,Care navigator,No,No,No,Digital check-in,Completed,9,11,Yes,Moderate
+U0008,2026-04-13,45-54,New Haven,Crisis/safety,High,Crisis support,No,No,Yes,Crisis line,Pending,0,0,No,Low
+U0009,2026-04-08,55+,Litchfield,Substance-related concern,Low,Telehealth,No,No,No,Self-guided resources,Abandoned,28,28,No,Moderate
+U0010,2026-03-17,55+,Middlesex,Family conflict,Low,In-person therapy,Yes,No,No,Peer support,Referred elsewhere,23,23,No,Low
+U0011,2026-04-06,18-24,Hartford,Trauma-related concern,Moderate,In-person therapy,No,No,No,Care navigator follow-up,Completed,9,9,Yes,Moderate
+U0012,2026-05-26,25-34,Tolland,Anxiety/stress,Low,In-person therapy,No,Yes,No,Peer support,No response,8,11,No,High
+U0013,2026-05-19,13-17,Middlesex,Trauma-related concern,High,Care navigator,Yes,No,No,Urgent behavioral health center,Completed,0,1,Yes,Low
+U0014,2026-02-26,55+,Windham,Anxiety/stress,Low,In-person therapy,No,No,No,Routine appointment,Completed,8,9,Yes,Low
+U0015,2026-05-02,13-17,Tolland,Trauma-related concern,Moderate,Self-guided resources,Yes,No,No,Community behavioral health referral,Pending,9,9,No,Moderate
+U0016,2026-03-28,35-44,New Haven,Trauma-related concern,Low,Telehealth,Yes,Yes,No,Digital check-in,Pending,10,12,No,High
+U0017,2026-06-16,18-24,Tolland,Substance-related concern,High,Telehealth,No,No,No,Mobile crisis,Completed,0,1,No,Low
+U0018,2026-04-10,55+,Litchfield,Crisis/safety,Moderate,Telehealth,No,No,No,Community behavioral health referral,Completed,3,4,No,Low
+U0019,2026-01-13,35-44,New Haven,Substance-related concern,Moderate,Care navigator,No,No,Yes,Telehealth appointment,Pending,4,4,No,Moderate
+U0020,2026-03-05,18-24,New London,Substance-related concern,Moderate,Crisis support,No,No,No,Care navigator follow-up,Pending,5,6,No,Moderate
+U0021,2026-02-03,18-24,Litchfield,School/work stress,Moderate,Telehealth,No,No,No,Telehealth appointment,Completed,9,9,Yes,Moderate
+U0022,2026-03-04,18-24,New London,Crisis/safety,High,Telehealth,No,No,No,Crisis line,Referred elsewhere,0,2,No,Low
+U0023,2026-01-28,13-17,New Haven,School/work stress,Moderate,Self-guided resources,No,No,No,Outpatient therapy,Pending,10,12,No,Moderate
+U0024,2026-04-19,45-54,Hartford,Trauma-related concern,Moderate,Telehealth,Yes,No,No,Care navigator follow-up,Pending,1,4,No,Low
+U0025,2026-01-20,25-34,Middlesex,School/work stress,Moderate,Self-guided resources,No,No,No,Outpatient therapy,Completed,7,8,Yes,Low
+U0026,2026-03-05,35-44,Hartford,School/work stress,Low,In-person therapy,No,No,No,Peer support,No response,13,14,No,High
+U0027,2026-03-27,35-44,Middlesex,Trauma-related concern,Low,In-person therapy,No,No,No,Routine appointment,Pending,12,12,No,Low
+U0028,2026-04-28,25-34,Tolland,Crisis/safety,High,Self-guided resources,No,No,Yes,Mobile crisis,Completed,0,1,Yes,Low
+U0029,2026-05-18,55+,Litchfield,Crisis/safety,Moderate,Crisis support,Yes,No,No,Care navigator follow-up,Pending,2,2,No,Low
+U0030,2026-06-05,45-54,Litchfield,Substance-related concern,Moderate,Self-guided resources,No,Yes,Yes,Community behavioral health referral,Completed,1,2,Yes,Moderate
+U0031,2026-02-01,55+,Fairfield,School/work stress,Moderate,Care navigator,No,No,No,Care navigator follow-up,Completed,9,10,Yes,Moderate
+U0032,2026-05-26,55+,Fairfield,Crisis/safety,High,Self-guided resources,No,No,No,Urgent behavioral health center,Completed,0,1,Yes,Moderate
+U0033,2026-01-22,13-17,Middlesex,Crisis/safety,High,Crisis support,No,No,No,Mobile crisis,Completed,0,2,Yes,Low
+U0034,2026-06-06,13-17,Tolland,Trauma-related concern,High,In-person therapy,No,No,No,Emergency support,Completed,0,1,Yes,Low
+U0035,2026-02-15,35-44,Tolland,Trauma-related concern,Low,Care navigator,No,Yes,No,Self-guided resources,Referred elsewhere,20,21,No,Low
+U0036,2026-04-25,35-44,New Haven,Depression/mood,High,Self-guided resources,No,No,No,Urgent behavioral health center,Pending,0,2,No,Moderate
+U0037,2026-03-15,35-44,Tolland,Depression/mood,Moderate,Peer support,No,No,Yes,Outpatient therapy,Abandoned,7,8,No,High
+U0038,2026-05-19,25-34,Tolland,Family conflict,Low,Crisis support,Yes,No,No,Self-guided resources,Pending,22,25,No,Low
+U0039,2026-05-18,55+,Fairfield,School/work stress,Moderate,Crisis support,No,No,No,Care navigator follow-up,Completed,5,8,Yes,Moderate
+U0040,2026-02-02,25-34,Tolland,Substance-related concern,Moderate,Peer support,No,No,No,Telehealth appointment,Completed,9,12,Yes,Low
+U0041,2026-02-24,25-34,Middlesex,Family conflict,Low,Self-guided resources,No,No,No,Digital check-in,Pending,15,15,No,Low
+U0042,2026-01-18,45-54,Middlesex,Trauma-related concern,Low,Crisis support,Yes,Yes,No,Self-guided resources,Completed,25,26,Yes,High
+U0043,2026-06-29,45-54,Tolland,Crisis/safety,High,Crisis support,Yes,No,No,Crisis line,Completed,0,0,Yes,Low
+U0044,2026-02-20,25-34,Tolland,Anxiety/stress,Moderate,Self-guided resources,No,No,No,Care navigator follow-up,Abandoned,12,12,No,High
+U0045,2026-04-05,55+,Fairfield,Anxiety/stress,Low,Crisis support,No,No,No,Self-guided resources,Abandoned,18,20,No,Moderate
+U0046,2026-02-15,25-34,Middlesex,School/work stress,Low,Telehealth,No,No,No,Digital check-in,Referred elsewhere,18,21,No,Moderate
+U0047,2026-03-13,25-34,New London,Family conflict,Low,Care navigator,No,No,No,Self-guided resources,Completed,20,22,Yes,Moderate
+U0048,2026-06-29,35-44,Hartford,Crisis/safety,High,Telehealth,No,Yes,No,Emergency support,Pending,0,1,No,Low
+U0049,2026-03-17,25-34,Middlesex,Depression/mood,Moderate,Telehealth,Yes,No,No,Care navigator follow-up,Completed,6,8,Yes,Low
+U0050,2026-02-19,13-17,Middlesex,Crisis/safety,High,Peer support,No,No,No,Mobile crisis,Completed,0,2,Yes,Moderate
+U0051,2026-02-28,55+,Windham,Crisis/safety,High,Telehealth,Yes,No,No,Crisis line,Pending,0,2,No,Moderate
+U0052,2026-01-04,35-44,New Haven,Substance-related concern,Moderate,Care navigator,No,No,No,Care navigator follow-up,Abandoned,9,9,No,Moderate
+U0053,2026-06-11,45-54,Tolland,School/work stress,Low,Crisis support,Yes,No,No,Peer support,Abandoned,7,10,No,High
+U0054,2026-04-24,55+,New Haven,Crisis/safety,Moderate,In-person therapy,No,No,No,Telehealth appointment,Pending,13,14,No,Moderate
+U0055,2026-03-03,13-17,Middlesex,Depression/mood,Moderate,Peer support,Yes,No,No,Community behavioral health referral,Completed,6,6,Yes,Low
+U0056,2026-06-10,45-54,New London,Substance-related concern,High,Crisis support,No,No,No,Mobile crisis,Completed,0,1,Yes,Moderate
+U0057,2026-02-01,55+,Litchfield,Family conflict,Moderate,Care navigator,No,No,No,Community behavioral health referral,Pending,9,9,No,Moderate
+U0058,2026-03-06,35-44,Windham,Anxiety/stress,Low,Peer support,No,No,No,Self-guided resources,Abandoned,26,28,No,High
+U0059,2026-02-16,25-34,Tolland,Substance-related concern,Moderate,Self-guided resources,No,No,No,Community behavioral health referral,Pending,5,7,No,Low
+U0060,2026-05-07,45-54,Hartford,Crisis/safety,High,Self-guided resources,No,No,Yes,Crisis line,Completed,0,1,No,Low
+U0061,2026-05-19,35-44,Windham,Family conflict,Low,Telehealth,Yes,No,No,Digital check-in,Completed,7,8,Yes,Low
+U0062,2026-01-08,35-44,New Haven,School/work stress,Moderate,Self-guided resources,Yes,Yes,No,Community behavioral health referral,No response,2,3,No,High
+U0063,2026-02-09,35-44,Middlesex,Family conflict,Moderate,Care navigator,No,No,No,Community behavioral health referral,Pending,8,9,No,Low
+U0064,2026-05-11,55+,New London,School/work stress,Moderate,Care navigator,No,No,No,Community behavioral health referral,Abandoned,5,7,No,Moderate
+U0065,2026-05-29,45-54,Tolland,School/work stress,Low,In-person therapy,Yes,No,No,Digital check-in,Referred elsewhere,19,21,No,Moderate
+U0066,2026-04-16,13-17,Windham,Anxiety/stress,Low,Telehealth,No,No,No,Peer support,Completed,22,22,No,Moderate
+U0067,2026-05-15,25-34,Tolland,Family conflict,Low,Peer support,Yes,No,No,Self-guided resources,Completed,20,22,Yes,Moderate
+U0068,2026-06-10,35-44,New Haven,School/work stress,Moderate,Self-guided resources,No,No,No,Outpatient therapy,No response,10,12,No,High
+U0069,2026-06-30,18-24,Tolland,Trauma-related concern,Moderate,Care navigator,Yes,No,Yes,Care navigator follow-up,Completed,14,14,Yes,High
+U0070,2026-06-24,25-34,Hartford,Trauma-related concern,Moderate,Crisis support,Yes,No,No,Outpatient therapy,Completed,8,9,Yes,Low
+U0071,2026-03-15,25-34,Middlesex,School/work stress,Low,Crisis support,Yes,No,No,Routine appointment,Abandoned,24,27,No,Moderate
+U0072,2026-05-04,45-54,Windham,Anxiety/stress,Low,Peer support,No,No,No,Routine appointment,Completed,4,7,Yes,Low
+U0073,2026-02-28,25-34,Windham,Substance-related concern,High,Telehealth,Yes,Yes,No,Mobile crisis,Referred elsewhere,2,2,No,High
+U0074,2026-05-29,45-54,New London,Crisis/safety,High,In-person therapy,Yes,No,No,Mobile crisis,Abandoned,0,0,No,Moderate
+U0075,2026-03-07,45-54,Litchfield,Trauma-related concern,Low,Telehealth,No,No,No,Self-guided resources,Completed,21,21,No,Moderate
+U0076,2026-04-12,13-17,Middlesex,Anxiety/stress,Low,Crisis support,Yes,No,No,Routine appointment,Referred elsewhere,22,25,No,Low
+U0077,2026-01-07,55+,Tolland,Substance-related concern,Low,Telehealth,No,No,No,Self-guided resources,No response,24,27,No,Moderate
+U0078,2026-02-05,45-54,Fairfield,Anxiety/stress,Moderate,Crisis support,No,No,Yes,Outpatient therapy,Completed,5,8,No,Low
+U0079,2026-06-17,13-17,Litchfield,Anxiety/stress,Moderate,Care navigator,No,No,No,Care navigator follow-up,Completed,2,5,Yes,Moderate
+U0080,2026-06-15,13-17,Litchfield,Crisis/safety,High,In-person therapy,No,No,No,Emergency support,Pending,0,0,No,Low
+U0081,2026-02-02,25-34,Fairfield,Trauma-related concern,Moderate,In-person therapy,Yes,No,No,Outpatient therapy,Abandoned,3,5,No,High
+U0082,2026-05-19,55+,Tolland,Crisis/safety,High,Care navigator,Yes,No,Yes,Urgent behavioral health center,Completed,0,0,Yes,High
+U0083,2026-01-30,55+,New London,School/work stress,Low,Crisis support,No,No,No,Digital check-in,No response,22,23,No,High
+U0084,2026-06-14,13-17,Fairfield,Anxiety/stress,Low,Peer support,No,No,No,Digital check-in,Completed,26,29,Yes,Low
+U0085,2026-06-09,35-44,Windham,School/work stress,Moderate,In-person therapy,No,No,No,Care navigator follow-up,Completed,6,9,Yes,Low
+U0086,2026-04-16,13-17,New Haven,Crisis/safety,High,Telehealth,No,No,No,Urgent behavioral health center,Completed,0,2,Yes,Moderate
+U0087,2026-01-24,55+,Hartford,Family conflict,Low,Peer support,No,No,No,Routine appointment,Pending,28,28,No,Moderate
+U0088,2026-06-03,13-17,New London,Crisis/safety,High,Care navigator,No,No,No,Mobile crisis,Abandoned,0,0,No,Moderate
+U0089,2026-02-27,25-34,Litchfield,Trauma-related concern,Moderate,Telehealth,No,No,No,Telehealth appointment,Completed,9,11,Yes,Moderate
+U0090,2026-02-16,25-34,New London,Trauma-related concern,Moderate,Self-guided resources,No,Yes,No,Telehealth appointment,Completed,2,3,Yes,Moderate
+U0091,2026-03-25,45-54,Windham,Trauma-related concern,Low,Crisis support,No,No,No,Self-guided resources,Completed,28,28,Yes,Moderate
+U0092,2026-03-11,13-17,Middlesex,Depression/mood,High,Peer support,Yes,No,No,Emergency support,Completed,0,2,Yes,Moderate
+U0093,2026-02-24,13-17,Tolland,Trauma-related concern,Moderate,Self-guided resources,No,No,Yes,Community behavioral health referral,Completed,3,4,Yes,Low
+U0094,2026-01-11,18-24,Windham,Family conflict,Low,Self-guided resources,No,No,No,Digital check-in,Completed,26,29,Yes,Moderate
+U0095,2026-04-03,25-34,Fairfield,Anxiety/stress,Low,Telehealth,Yes,No,No,Self-guided resources,Abandoned,17,19,No,High
+U0096,2026-05-11,55+,New Haven,School/work stress,Low,In-person therapy,No,No,No,Peer support,Completed,14,14,Yes,Low
+U0097,2026-06-10,55+,New London,Family conflict,Low,Peer support,No,No,No,Routine appointment,Completed,25,27,Yes,Moderate
+U0098,2026-06-01,45-54,Tolland,Anxiety/stress,Low,Crisis support,Yes,No,Yes,Routine appointment,Abandoned,16,16,No,High
+U0099,2026-05-29,35-44,New Haven,Substance-related concern,Low,Peer support,No,Yes,No,Peer support,Pending,14,17,No,Moderate
+U0100,2026-01-22,35-44,Litchfield,Substance-related concern,Moderate,Self-guided resources,Yes,No,No,Outpatient therapy,Referred elsewhere,5,7,No,Low
+U0101,2026-06-03,25-34,New Haven,Anxiety/stress,Moderate,Care navigator,No,Yes,Yes,Community behavioral health referral,Abandoned,4,6,No,High
+U0102,2026-06-19,18-24,New Haven,Depression/mood,Low,Self-guided resources,No,No,No,Peer support,Completed,26,26,Yes,Moderate
+U0103,2026-06-21,25-34,New Haven,Family conflict,Low,Care navigator,Yes,No,No,Routine appointment,Completed,21,22,Yes,Moderate
+U0104,2026-05-19,55+,Windham,Trauma-related concern,High,Telehealth,No,No,No,Mobile crisis,Completed,0,2,Yes,Low
+U0105,2026-04-16,18-24,Litchfield,Crisis/safety,High,Self-guided resources,Yes,No,No,Emergency support,Completed,0,0,No,Low
+U0106,2026-05-27,55+,Windham,Family conflict,Low,Peer support,No,No,No,Peer support,Referred elsewhere,12,13,No,Low
+U0107,2026-05-22,35-44,New Haven,Anxiety/stress,Moderate,In-person therapy,No,Yes,Yes,Outpatient therapy,Referred elsewhere,3,6,No,High
+U0108,2026-04-26,55+,Litchfield,Crisis/safety,Moderate,In-person therapy,No,No,No,Community behavioral health referral,Completed,1,3,Yes,Low
+U0109,2026-02-05,25-34,Middlesex,Anxiety/stress,Low,In-person therapy,No,No,Yes,Digital check-in,No response,21,21,No,High
+U0110,2026-05-21,13-17,New Haven,School/work stress,Moderate,Crisis support,No,No,No,Telehealth appointment,Completed,1,2,No,Moderate
+U0111,2026-06-02,45-54,Litchfield,Substance-related concern,Moderate,Telehealth,No,No,Yes,Community behavioral health referral,Completed,0,2,Yes,Moderate
+U0112,2026-05-15,55+,Hartford,Substance-related concern,Moderate,Peer support,No,No,No,Community behavioral health referral,No response,0,2,No,Moderate
+U0113,2026-01-18,55+,Windham,Crisis/safety,High,Self-guided resources,No,Yes,No,Urgent behavioral health center,Completed,0,0,Yes,Moderate
+U0114,2026-05-03,25-34,New London,School/work stress,Low,Care navigator,Yes,No,No,Self-guided resources,Completed,15,16,Yes,Moderate
+U0115,2026-04-12,25-34,New Haven,Trauma-related concern,Moderate,Peer support,No,No,No,Care navigator follow-up,Referred elsewhere,14,14,No,Moderate
+U0116,2026-04-22,13-17,Tolland,Family conflict,Moderate,Telehealth,No,No,No,Community behavioral health referral,Completed,10,13,No,Moderate
+U0117,2026-04-21,18-24,Windham,Substance-related concern,Low,Peer support,Yes,No,Yes,Routine appointment,Completed,26,28,Yes,Moderate
+U0118,2026-04-25,13-17,Fairfield,Anxiety/stress,Moderate,Care navigator,No,No,No,Telehealth appointment,Completed,0,3,No,Low
+U0119,2026-06-23,25-34,Litchfield,Trauma-related concern,Moderate,Crisis support,Yes,No,No,Care navigator follow-up,Pending,8,8,No,Low
+U0120,2026-01-20,45-54,New Haven,Substance-related concern,Moderate,Peer support,No,No,No,Telehealth appointment,Pending,1,2,No,Moderate
+U0121,2026-03-08,55+,Windham,School/work stress,Low,Telehealth,No,No,No,Digital check-in,Completed,13,13,Yes,Low
+U0122,2026-06-24,25-34,Middlesex,Trauma-related concern,Low,Telehealth,No,No,No,Routine appointment,Abandoned,15,16,No,High
+U0123,2026-02-21,13-17,New London,Trauma-related concern,Moderate,Crisis support,No,Yes,No,Care navigator follow-up,Pending,8,9,No,Moderate
+U0124,2026-05-03,18-24,Fairfield,Substance-related concern,Moderate,In-person therapy,No,No,Yes,Care navigator follow-up,Completed,12,12,Yes,Low
+U0125,2026-04-21,25-34,New London,Substance-related concern,Low,Telehealth,Yes,Yes,No,Peer support,No response,10,12,No,High
+U0126,2026-03-06,18-24,Litchfield,Depression/mood,Moderate,Care navigator,No,Yes,No,Telehealth appointment,Pending,9,10,No,Moderate
+U0127,2026-01-11,45-54,Hartford,Trauma-related concern,Low,Crisis support,Yes,No,No,Routine appointment,Abandoned,26,27,No,Moderate
+U0128,2026-06-10,35-44,Windham,Substance-related concern,Moderate,Crisis support,No,No,No,Community behavioral health referral,Completed,3,6,Yes,Moderate
+U0129,2026-02-22,25-34,Middlesex,Crisis/safety,High,Crisis support,No,No,No,Urgent behavioral health center,Abandoned,0,1,No,High
+U0130,2026-02-01,18-24,Fairfield,Crisis/safety,High,Crisis support,Yes,Yes,No,Emergency support,Abandoned,0,0,No,Moderate
+U0131,2026-05-12,13-17,New London,Family conflict,Low,Crisis support,No,Yes,No,Digital check-in,Abandoned,13,14,No,High
+U0132,2026-06-02,25-34,Hartford,Trauma-related concern,High,Crisis support,No,No,No,Emergency support,Pending,0,0,No,Moderate
+U0133,2026-01-14,18-24,New Haven,Substance-related concern,Moderate,Crisis support,No,No,No,Community behavioral health referral,Abandoned,12,14,No,High
+U0134,2026-04-06,35-44,Windham,Trauma-related concern,Low,In-person therapy,No,No,Yes,Digital check-in,Completed,23,23,Yes,Low
+U0135,2026-06-05,55+,New London,Substance-related concern,Moderate,Crisis support,No,No,No,Care navigator follow-up,Pending,9,11,No,Moderate
+U0136,2026-01-05,55+,Hartford,Crisis/safety,High,Care navigator,Yes,No,No,Crisis line,Completed,0,2,Yes,Moderate
+U0137,2026-05-03,18-24,Tolland,Depression/mood,Moderate,Self-guided resources,No,No,No,Outpatient therapy,Completed,2,2,Yes,Moderate
+U0138,2026-02-22,55+,Windham,Family conflict,Low,Care navigator,No,No,No,Self-guided resources,Pending,28,29,No,Moderate
+U0139,2026-04-07,18-24,New London,Crisis/safety,Moderate,Peer support,No,No,No,Care navigator follow-up,Completed,8,11,Yes,Moderate
+U0140,2026-06-30,35-44,Litchfield,Depression/mood,High,In-person therapy,No,No,No,Urgent behavioral health center,Pending,1,1,No,Moderate
+U0141,2026-03-16,45-54,New London,Anxiety/stress,Low,In-person therapy,No,No,No,Routine appointment,Completed,27,30,No,Moderate
+U0142,2026-01-28,13-17,Fairfield,Substance-related concern,High,Telehealth,Yes,Yes,No,Mobile crisis,Completed,1,2,Yes,Moderate
+U0143,2026-05-21,55+,Middlesex,Depression/mood,Moderate,Care navigator,No,No,No,Outpatient therapy,Completed,12,14,Yes,Low
+U0144,2026-01-10,13-17,Hartford,Depression/mood,Moderate,Peer support,No,No,Yes,Community behavioral health referral,Completed,11,14,Yes,Low
+U0145,2026-05-26,18-24,Windham,Substance-related concern,Moderate,Self-guided resources,No,No,No,Community behavioral health referral,Completed,1,4,No,Moderate
+U0146,2026-03-07,13-17,Tolland,School/work stress,Low,Self-guided resources,No,No,No,Peer support,Referred elsewhere,9,12,No,Moderate
+U0147,2026-01-25,25-34,Hartford,Depression/mood,Low,Peer support,No,No,Yes,Digital check-in,Abandoned,11,14,No,Moderate
+U0148,2026-06-17,25-34,Middlesex,Crisis/safety,High,In-person therapy,Yes,Yes,No,Emergency support,Pending,0,2,No,Moderate
+U0149,2026-02-04,45-54,Windham,Family conflict,Low,Care navigator,No,No,No,Digital check-in,Abandoned,23,24,No,High
+U0150,2026-06-30,13-17,Middlesex,Crisis/safety,High,Self-guided resources,No,Yes,No,Mobile crisis,Completed,1,2,No,Low
+U0151,2026-05-30,55+,Hartford,Family conflict,Low,Crisis support,No,No,No,Digital check-in,Abandoned,21,21,No,Moderate
+U0152,2026-03-07,35-44,Hartford,Trauma-related concern,Moderate,Peer support,Yes,Yes,No,Telehealth appointment,Referred elsewhere,10,10,No,High
+U0153,2026-04-15,35-44,New Haven,Depression/mood,High,Self-guided resources,No,No,No,Emergency support,Completed,0,1,No,Moderate
+U0154,2026-06-19,13-17,Hartford,Trauma-related concern,Moderate,Peer support,No,No,No,Community behavioral health referral,Abandoned,9,10,No,High
+U0155,2026-04-29,13-17,Tolland,School/work stress,Moderate,Care navigator,No,No,No,Community behavioral health referral,Completed,6,7,No,Low
+U0156,2026-01-05,13-17,Fairfield,Depression/mood,Moderate,Care navigator,Yes,Yes,No,Telehealth appointment,Completed,5,5,Yes,High
+U0157,2026-03-16,35-44,New London,Depression/mood,High,Peer support,No,No,No,Urgent behavioral health center,Referred elsewhere,0,0,No,Low
+U0158,2026-01-16,45-54,Litchfield,Substance-related concern,Low,Self-guided resources,No,No,No,Digital check-in,Completed,21,24,Yes,Moderate
+U0159,2026-04-17,45-54,Tolland,Family conflict,Low,Crisis support,No,No,No,Peer support,Referred elsewhere,15,16,No,Low
+U0160,2026-05-23,13-17,New London,Substance-related concern,Moderate,Crisis support,Yes,No,No,Community behavioral health referral,Pending,7,7,No,Moderate
+U0161,2026-06-22,25-34,Hartford,Substance-related concern,Moderate,In-person therapy,No,Yes,No,Outpatient therapy,Referred elsewhere,8,9,No,Low
+U0162,2026-02-18,35-44,Windham,School/work stress,Low,Care navigator,No,No,No,Peer support,Abandoned,18,19,No,Moderate
+U0163,2026-06-16,55+,Fairfield,Crisis/safety,High,Telehealth,No,No,No,Emergency support,Completed,0,1,Yes,Low
+U0164,2026-03-08,35-44,Litchfield,Substance-related concern,Low,Peer support,No,No,No,Routine appointment,Abandoned,11,14,No,High
+U0165,2026-05-06,45-54,Hartford,School/work stress,Moderate,Telehealth,No,Yes,No,Outpatient therapy,Completed,1,4,No,Moderate
+U0166,2026-06-21,13-17,Windham,Anxiety/stress,Moderate,Self-guided resources,No,No,No,Outpatient therapy,Pending,1,2,No,Moderate
+U0167,2026-05-05,18-24,New Haven,Anxiety/stress,Low,Telehealth,No,Yes,No,Routine appointment,Completed,22,24,No,Low
+U0168,2026-05-15,45-54,Middlesex,Depression/mood,Moderate,Self-guided resources,No,No,No,Community behavioral health referral,No response,1,3,No,Moderate
+U0169,2026-02-27,55+,Hartford,Crisis/safety,High,Self-guided resources,No,No,No,Crisis line,Completed,0,0,Yes,Low
+U0170,2026-02-13,25-34,Hartford,Anxiety/stress,Low,Telehealth,No,No,No,Self-guided resources,Completed,23,23,No,Moderate
+U0171,2026-06-25,13-17,New London,Crisis/safety,Moderate,In-person therapy,No,Yes,No,Care navigator follow-up,Pending,1,2,No,Low
+U0172,2026-05-25,45-54,Litchfield,Depression/mood,Moderate,Telehealth,No,No,No,Community behavioral health referral,Abandoned,13,14,No,High
+U0173,2026-01-26,35-44,Middlesex,Family conflict,Low,Peer support,Yes,No,No,Digital check-in,Abandoned,17,17,No,Moderate
+U0174,2026-05-22,55+,Tolland,Family conflict,Low,Peer support,No,No,Yes,Routine appointment,Completed,14,14,Yes,Moderate
+U0175,2026-04-03,13-17,Hartford,Anxiety/stress,Low,Telehealth,No,No,No,Self-guided resources,Completed,11,11,Yes,Moderate
+U0176,2026-04-01,45-54,Fairfield,Substance-related concern,Moderate,Self-guided resources,No,No,No,Care navigator follow-up,Abandoned,5,8,No,High
+U0177,2026-04-08,25-34,Middlesex,Depression/mood,Moderate,Self-guided resources,No,No,Yes,Community behavioral health referral,Completed,3,6,No,Low
+U0178,2026-06-10,35-44,Litchfield,Family conflict,Moderate,Crisis support,Yes,Yes,No,Community behavioral health referral,Abandoned,4,7,No,Moderate
+U0179,2026-06-16,55+,Windham,Substance-related concern,Moderate,Care navigator,No,No,No,Care navigator follow-up,No response,1,4,No,Moderate
+U0180,2026-03-04,55+,Windham,Crisis/safety,High,Self-guided resources,No,No,Yes,Mobile crisis,Pending,1,2,No,Moderate
+U0181,2026-02-23,55+,Fairfield,Family conflict,Moderate,Self-guided resources,No,Yes,No,Community behavioral health referral,Completed,9,12,Yes,Low
+U0182,2026-04-19,55+,New Haven,Trauma-related concern,Moderate,Telehealth,No,No,No,Community behavioral health referral,Abandoned,10,10,No,Moderate
+U0183,2026-03-05,13-17,Hartford,School/work stress,Moderate,Telehealth,Yes,No,No,Community behavioral health referral,No response,12,14,No,Moderate
+U0184,2026-03-08,25-34,Hartford,Depression/mood,Moderate,Crisis support,No,No,No,Community behavioral health referral,Pending,4,7,No,Low
+U0185,2026-01-27,25-34,Windham,Crisis/safety,High,Telehealth,No,Yes,No,Mobile crisis,Completed,0,1,No,Low
+U0186,2026-04-23,55+,Middlesex,School/work stress,Moderate,Care navigator,No,No,No,Telehealth appointment,Pending,0,2,No,Low
+U0187,2026-02-14,13-17,Middlesex,Substance-related concern,Moderate,Crisis support,No,No,No,Community behavioral health referral,Completed,11,12,Yes,Moderate
+U0188,2026-06-01,25-34,Litchfield,Family conflict,Low,In-person therapy,No,No,No,Self-guided resources,Abandoned,25,25,No,High
+U0189,2026-04-28,25-34,Windham,Anxiety/stress,Low,Care navigator,No,No,No,Digital check-in,Abandoned,23,26,No,Moderate
+U0190,2026-02-14,55+,Fairfield,Trauma-related concern,High,Care navigator,No,No,No,Mobile crisis,Completed,1,1,Yes,Moderate
+U0191,2026-04-10,18-24,Litchfield,Family conflict,Moderate,Crisis support,No,No,No,Outpatient therapy,Pending,9,10,No,Low
+U0192,2026-06-08,35-44,Fairfield,Anxiety/stress,Moderate,Telehealth,No,No,No,Community behavioral health referral,Completed,7,10,Yes,Moderate
+U0193,2026-05-25,45-54,New Haven,Anxiety/stress,Moderate,Care navigator,Yes,Yes,No,Care navigator follow-up,Pending,1,4,No,Moderate
+U0194,2026-01-30,55+,Middlesex,Crisis/safety,High,Peer support,No,No,No,Crisis line,Completed,0,2,No,Low
+U0195,2026-01-09,55+,Tolland,Family conflict,Low,In-person therapy,No,Yes,No,Self-guided resources,Referred elsewhere,13,14,No,Low
+U0196,2026-06-07,45-54,New London,Depression/mood,High,Care navigator,No,No,No,Urgent behavioral health center,Completed,1,2,Yes,Moderate
+U0197,2026-06-23,18-24,Fairfield,Trauma-related concern,Moderate,Self-guided resources,No,No,No,Care navigator follow-up,Abandoned,11,12,No,High
+U0198,2026-03-24,35-44,New London,Trauma-related concern,Moderate,Self-guided resources,No,No,Yes,Care navigator follow-up,Completed,9,12,Yes,Moderate
+U0199,2026-04-05,13-17,Tolland,Family conflict,High,In-person therapy,No,Yes,No,Crisis line,Pending,0,2,No,Low
+U0200,2026-04-20,13-17,New Haven,Trauma-related concern,Moderate,Self-guided resources,No,No,No,Outpatient therapy,Abandoned,8,11,No,High
+U0201,2026-04-28,18-24,New London,Anxiety/stress,Low,Telehealth,No,No,Yes,Digital check-in,Referred elsewhere,12,13,No,Low
+U0202,2026-06-17,35-44,New Haven,Crisis/safety,High,Self-guided resources,No,No,No,Emergency support,Pending,0,2,No,Low
+U0203,2026-01-25,35-44,Fairfield,Anxiety/stress,Low,Crisis support,Yes,No,No,Digital check-in,Abandoned,7,7,No,High
+U0204,2026-01-19,55+,Fairfield,Depression/mood,Moderate,Telehealth,No,Yes,No,Care navigator follow-up,Abandoned,1,4,No,High
+U0205,2026-05-16,13-17,Fairfield,Substance-related concern,Moderate,Telehealth,No,No,No,Outpatient therapy,Referred elsewhere,5,8,No,Low
+U0206,2026-05-31,55+,Hartford,School/work stress,Low,Self-guided resources,No,No,Yes,Routine appointment,Completed,27,27,Yes,Low
+U0207,2026-03-19,18-24,Windham,Depression/mood,Moderate,Self-guided resources,No,No,No,Telehealth appointment,Pending,13,14,No,Low
+U0208,2026-06-02,35-44,New Haven,Anxiety/stress,Low,Telehealth,No,No,No,Peer support,Pending,16,19,No,Low
+U0209,2026-05-31,35-44,Tolland,Anxiety/stress,Low,Telehealth,Yes,No,No,Digital check-in,Abandoned,21,23,No,Moderate
+U0210,2026-06-13,45-54,New Haven,Substance-related concern,Moderate,Peer support,Yes,Yes,Yes,Outpatient therapy,Pending,13,14,No,Moderate
+U0211,2026-06-28,25-34,Fairfield,Family conflict,Moderate,Telehealth,No,Yes,Yes,Community behavioral health referral,Pending,0,3,No,High
+U0212,2026-01-04,55+,New Haven,School/work stress,Low,Telehealth,Yes,No,No,Routine appointment,Completed,10,12,No,Low
+U0213,2026-03-27,35-44,Fairfield,Trauma-related concern,Moderate,Peer support,No,No,No,Telehealth appointment,Pending,6,9,No,Low
+U0214,2026-02-10,18-24,Fairfield,Crisis/safety,High,Telehealth,No,No,Yes,Crisis line,Completed,0,0,Yes,Low
+U0215,2026-05-22,13-17,Hartford,Trauma-related concern,Low,In-person therapy,No,No,No,Digital check-in,Completed,28,30,Yes,Moderate
+U0216,2026-02-27,25-34,Middlesex,Trauma-related concern,Moderate,Peer support,Yes,No,No,Care navigator follow-up,Completed,12,14,Yes,Moderate
+U0217,2026-05-25,18-24,Hartford,Trauma-related concern,Moderate,Crisis support,No,No,No,Community behavioral health referral,Abandoned,13,14,No,High
+U0218,2026-01-07,13-17,Middlesex,Depression/mood,Moderate,Care navigator,No,No,Yes,Care navigator follow-up,Abandoned,0,2,No,Moderate
+U0219,2026-03-02,55+,Litchfield,Family conflict,Low,Crisis support,Yes,No,No,Self-guided resources,Referred elsewhere,7,8,No,Low
+U0220,2026-01-22,35-44,Litchfield,Substance-related concern,Moderate,Peer support,Yes,No,Yes,Telehealth appointment,Completed,7,8,Yes,Moderate
+U0221,2026-04-26,13-17,Litchfield,Crisis/safety,High,In-person therapy,No,Yes,No,Crisis line,Completed,0,0,Yes,Low
+U0222,2026-04-26,13-17,Middlesex,Crisis/safety,High,Peer support,No,Yes,No,Urgent behavioral health center,Completed,2,2,No,Moderate
+U0223,2026-04-12,13-17,Hartford,Substance-related concern,Moderate,Telehealth,No,No,No,Community behavioral health referral,Completed,8,9,Yes,Low
+U0224,2026-02-26,13-17,New Haven,Depression/mood,Moderate,In-person therapy,No,No,No,Telehealth appointment,Referred elsewhere,9,11,No,Low
+U0225,2026-06-15,55+,Tolland,Family conflict,Moderate,Crisis support,Yes,No,No,Telehealth appointment,Completed,0,2,No,Low
+U0226,2026-01-08,55+,New London,Family conflict,Moderate,Crisis support,Yes,No,No,Care navigator follow-up,Completed,8,9,Yes,Moderate
+U0227,2026-04-16,35-44,Windham,Substance-related concern,Moderate,Peer support,Yes,No,No,Outpatient therapy,No response,12,12,No,Moderate
+U0228,2026-05-25,45-54,Middlesex,Substance-related concern,Moderate,In-person therapy,No,Yes,No,Telehealth appointment,Completed,12,14,No,Low
+U0229,2026-01-26,18-24,Middlesex,Depression/mood,High,Care navigator,No,No,No,Crisis line,Completed,0,0,No,Low
+U0230,2026-03-23,35-44,New London,Trauma-related concern,High,In-person therapy,No,No,No,Urgent behavioral health center,Pending,1,2,No,Low
+U0231,2026-05-06,55+,Fairfield,Anxiety/stress,Low,Peer support,Yes,No,No,Self-guided resources,Referred elsewhere,16,17,No,Low
+U0232,2026-01-16,45-54,New Haven,Anxiety/stress,Low,Peer support,No,Yes,Yes,Routine appointment,Abandoned,7,9,No,Moderate
+U0233,2026-03-19,18-24,Fairfield,Crisis/safety,High,Crisis support,Yes,No,No,Emergency support,Completed,0,2,No,Low
+U0234,2026-03-20,55+,New Haven,School/work stress,Moderate,Crisis support,Yes,No,No,Community behavioral health referral,Completed,14,14,Yes,Moderate
+U0235,2026-02-06,55+,New Haven,Crisis/safety,High,Peer support,Yes,No,No,Crisis line,Completed,0,2,Yes,Moderate
+U0236,2026-03-07,45-54,Tolland,Trauma-related concern,Moderate,Telehealth,Yes,No,No,Outpatient therapy,Referred elsewhere,5,8,No,Low
+U0237,2026-05-03,13-17,Litchfield,Trauma-related concern,Low,In-person therapy,No,No,No,Self-guided resources,Completed,6,8,Yes,Low
+U0238,2026-04-07,18-24,Hartford,Depression/mood,High,Telehealth,No,No,Yes,Emergency support,Completed,2,2,Yes,Low
+U0239,2026-03-26,45-54,Windham,Depression/mood,Low,In-person therapy,No,No,No,Routine appointment,Completed,26,28,Yes,Moderate
+U0240,2026-01-14,13-17,Windham,Crisis/safety,High,Telehealth,Yes,No,No,Emergency support,Completed,0,0,Yes,Low
+U0241,2026-03-20,18-24,Windham,Trauma-related concern,Moderate,Telehealth,No,No,Yes,Community behavioral health referral,Referred elsewhere,2,4,No,Low
+U0242,2026-03-09,45-54,Middlesex,Family conflict,Low,Care navigator,Yes,No,Yes,Self-guided resources,Referred elsewhere,7,9,No,Moderate
+U0243,2026-01-16,35-44,Hartford,Trauma-related concern,Moderate,Care navigator,No,No,No,Community behavioral health referral,Pending,10,11,No,Low
+U0244,2026-05-27,18-24,Hartford,Substance-related concern,High,Crisis support,No,No,Yes,Emergency support,No response,0,0,No,High
+U0245,2026-01-21,25-34,Windham,School/work stress,Low,Telehealth,No,No,No,Routine appointment,Completed,17,17,Yes,Moderate
+U0246,2026-06-29,35-44,New London,Substance-related concern,Moderate,Crisis support,No,Yes,Yes,Telehealth appointment,Abandoned,3,3,No,Moderate
+U0247,2026-06-17,55+,Middlesex,Family conflict,Moderate,Telehealth,No,Yes,No,Community behavioral health referral,Referred elsewhere,0,2,No,Low
+U0248,2026-05-02,18-24,New London,Crisis/safety,Moderate,Self-guided resources,Yes,No,No,Care navigator follow-up,No response,9,9,No,High
+U0249,2026-04-24,55+,Windham,Trauma-related concern,High,Care navigator,No,No,No,Mobile crisis,Referred elsewhere,0,1,No,Moderate
+U0250,2026-04-06,13-17,Middlesex,Trauma-related concern,Moderate,Telehealth,No,Yes,No,Community behavioral health referral,Completed,4,4,No,Moderate
+U0251,2026-04-27,25-34,Windham,Anxiety/stress,Moderate,Care navigator,No,No,No,Community behavioral health referral,Pending,12,12,No,Low
+U0252,2026-04-25,45-54,Middlesex,Depression/mood,Low,In-person therapy,No,No,No,Routine appointment,Completed,30,30,Yes,Low
+U0253,2026-06-15,18-24,New London,Depression/mood,High,Care navigator,No,No,Yes,Crisis line,Pending,0,1,No,Moderate
+U0254,2026-03-20,45-54,New Haven,School/work stress,High,Telehealth,No,No,No,Urgent behavioral health center,Completed,0,1,Yes,Moderate
+U0255,2026-05-11,55+,Litchfield,School/work stress,High,Peer support,No,No,No,Urgent behavioral health center,Completed,1,1,Yes,Moderate
+U0256,2026-03-08,55+,Hartford,School/work stress,Moderate,Self-guided resources,No,No,Yes,Outpatient therapy,Pending,0,2,No,Moderate
+U0257,2026-05-08,55+,Litchfield,Crisis/safety,High,Care navigator,No,No,Yes,Mobile crisis,Pending,0,1,No,Low
+U0258,2026-03-18,55+,Litchfield,Trauma-related concern,Moderate,Self-guided resources,No,No,No,Community behavioral health referral,Abandoned,2,4,No,High
+U0259,2026-01-23,13-17,Windham,Depression/mood,Moderate,Telehealth,No,No,No,Care navigator follow-up,Pending,5,7,No,Moderate
+U0260,2026-06-12,13-17,Fairfield,Substance-related concern,Moderate,In-person therapy,No,No,No,Telehealth appointment,Pending,9,12,No,Moderate
+U0261,2026-02-21,25-34,Fairfield,Crisis/safety,High,Peer support,No,No,No,Urgent behavioral health center,Abandoned,1,2,No,Moderate
+U0262,2026-06-12,35-44,Tolland,Anxiety/stress,Low,Crisis support,No,No,No,Peer support,Completed,22,22,Yes,Moderate
+U0263,2026-04-09,18-24,Litchfield,Anxiety/stress,Low,Peer support,Yes,No,Yes,Routine appointment,Completed,22,23,Yes,High
+U0264,2026-02-03,35-44,Fairfield,Anxiety/stress,Low,Peer support,No,Yes,No,Routine appointment,Abandoned,13,16,No,Moderate
+U0265,2026-05-06,18-24,Hartford,Crisis/safety,High,Care navigator,Yes,No,No,Crisis line,Pending,0,0,No,Moderate
+U0266,2026-05-10,55+,New Haven,Depression/mood,Moderate,Self-guided resources,No,No,No,Care navigator follow-up,Pending,14,14,No,Low
+U0267,2026-01-06,25-34,Tolland,Anxiety/stress,Moderate,Self-guided resources,No,No,No,Community behavioral health referral,Completed,12,13,Yes,Low
+U0268,2026-01-26,18-24,Middlesex,School/work stress,Low,Peer support,No,No,No,Self-guided resources,Completed,23,23,No,Moderate
+U0269,2026-05-14,13-17,Windham,Depression/mood,Moderate,In-person therapy,No,Yes,No,Outpatient therapy,Completed,10,13,Yes,Moderate
+U0270,2026-01-24,13-17,New London,Trauma-related concern,Moderate,Peer support,No,Yes,No,Outpatient therapy,Completed,7,9,Yes,Moderate
+U0271,2026-06-23,55+,New Haven,Crisis/safety,High,Peer support,Yes,No,No,Crisis line,Completed,0,0,No,Low
+U0272,2026-03-29,13-17,Fairfield,Depression/mood,Moderate,Self-guided resources,No,No,No,Community behavioral health referral,Pending,11,14,No,Low
+U0273,2026-01-16,55+,Fairfield,Trauma-related concern,Moderate,Crisis support,No,No,No,Community behavioral health referral,Abandoned,1,4,No,High
+U0274,2026-05-05,45-54,New Haven,Anxiety/stress,Moderate,Crisis support,No,Yes,No,Telehealth appointment,No response,12,13,No,Moderate
+U0275,2026-06-19,35-44,Fairfield,School/work stress,Low,Telehealth,No,No,No,Self-guided resources,Pending,6,7,No,Moderate
+U0276,2026-05-06,13-17,Windham,Crisis/safety,High,Crisis support,No,Yes,No,Emergency support,Completed,0,1,Yes,Low
+U0277,2026-03-22,45-54,Middlesex,Anxiety/stress,High,Self-guided resources,No,Yes,No,Crisis line,Abandoned,2,2,No,Moderate
+U0278,2026-06-21,55+,Windham,Family conflict,High,Telehealth,No,Yes,No,Emergency support,Pending,0,1,No,Low
+U0279,2026-01-25,18-24,Windham,Trauma-related concern,High,In-person therapy,Yes,No,No,Urgent behavioral health center,Pending,0,2,No,Moderate
+U0280,2026-04-15,35-44,Hartford,Anxiety/stress,Low,Self-guided resources,Yes,Yes,No,Peer support,Abandoned,20,21,No,High
+U0281,2026-06-22,45-54,Tolland,Substance-related concern,Moderate,Care navigator,No,No,No,Outpatient therapy,Pending,9,9,No,Low
+U0282,2026-05-04,45-54,Tolland,Substance-related concern,High,Crisis support,No,No,No,Mobile crisis,Pending,0,0,No,Moderate
+U0283,2026-06-05,55+,Litchfield,School/work stress,Moderate,Self-guided resources,No,No,No,Community behavioral health referral,Completed,13,14,Yes,Moderate
+U0284,2026-05-22,55+,New Haven,School/work stress,Low,Peer support,Yes,No,No,Peer support,Pending,28,29,No,Low
+U0285,2026-05-24,35-44,Fairfield,Family conflict,Moderate,Telehealth,No,No,No,Care navigator follow-up,Pending,8,8,No,Low
+U0286,2026-06-21,18-24,Hartford,Anxiety/stress,Low,Peer support,No,Yes,No,Routine appointment,Abandoned,11,11,No,Moderate
+U0287,2026-04-26,35-44,Tolland,Anxiety/stress,Moderate,Crisis support,No,No,No,Community behavioral health referral,Pending,3,5,No,Low
+U0288,2026-06-25,55+,Middlesex,Crisis/safety,Moderate,Peer support,Yes,No,No,Community behavioral health referral,Abandoned,3,5,No,High
+U0289,2026-04-25,18-24,Fairfield,Depression/mood,Low,Care navigator,Yes,No,No,Self-guided resources,Pending,19,19,No,Low
+U0290,2026-03-07,35-44,Litchfield,Anxiety/stress,Low,Telehealth,No,Yes,No,Routine appointment,Abandoned,26,26,No,Moderate
+U0291,2026-03-23,55+,Litchfield,Substance-related concern,Moderate,Peer support,Yes,Yes,No,Community behavioral health referral,Completed,7,10,Yes,High
+U0292,2026-04-03,13-17,Litchfield,Crisis/safety,High,Crisis support,No,No,No,Crisis line,Completed,0,0,No,Low
+U0293,2026-01-30,55+,Middlesex,Family conflict,Low,Peer support,No,Yes,No,Routine appointment,Pending,20,23,No,Low
+U0294,2026-05-12,55+,Tolland,Anxiety/stress,Moderate,Telehealth,Yes,No,No,Telehealth appointment,Completed,12,12,Yes,Moderate
+U0295,2026-02-22,13-17,New Haven,Substance-related concern,High,Telehealth,No,No,No,Crisis line,Completed,1,2,Yes,Low
+U0296,2026-02-15,25-34,Hartford,Trauma-related concern,Moderate,Crisis support,Yes,No,No,Community behavioral health referral,Pending,5,8,No,Low
+U0297,2026-06-22,25-34,New London,Anxiety/stress,Low,Care navigator,No,No,No,Self-guided resources,Pending,29,29,No,Low
+U0298,2026-01-23,55+,Fairfield,Crisis/safety,High,Peer support,No,No,No,Emergency support,Completed,0,0,Yes,Moderate
+U0299,2026-06-23,25-34,Middlesex,Trauma-related concern,Low,Self-guided resources,No,No,Yes,Peer support,Completed,10,10,Yes,Moderate
+U0300,2026-03-30,45-54,Windham,Depression/mood,Moderate,Self-guided resources,No,No,No,Outpatient therapy,Completed,9,11,Yes,Low
+U0301,2026-05-21,25-34,New Haven,Anxiety/stress,Low,In-person therapy,Yes,Yes,No,Digital check-in,Completed,15,17,Yes,High
+U0302,2026-03-23,55+,Tolland,Family conflict,Low,Peer support,No,No,No,Routine appointment,Completed,14,17,Yes,Low
+U0303,2026-04-03,18-24,Middlesex,Depression/mood,High,Peer support,No,No,No,Urgent behavioral health center,Completed,1,1,Yes,Moderate
+U0304,2026-06-10,45-54,Windham,Anxiety/stress,Moderate,Self-guided resources,No,No,No,Community behavioral health referral,Referred elsewhere,13,14,No,Moderate
+U0305,2026-02-08,45-54,Fairfield,Crisis/safety,High,Care navigator,No,No,No,Mobile crisis,Completed,1,1,Yes,Low
+U0306,2026-02-05,18-24,Windham,Family conflict,Low,In-person therapy,No,No,No,Peer support,No response,27,30,No,High
+U0307,2026-01-17,13-17,Litchfield,Crisis/safety,High,Telehealth,Yes,No,No,Urgent behavioral health center,Referred elsewhere,0,1,No,Moderate
+U0308,2026-06-30,45-54,New London,Substance-related concern,Moderate,Crisis support,No,No,No,Outpatient therapy,Completed,5,8,Yes,Low
+U0309,2026-02-27,18-24,Fairfield,Substance-related concern,Moderate,In-person therapy,No,No,No,Telehealth appointment,Completed,9,10,Yes,Moderate
+U0310,2026-02-10,45-54,Fairfield,Crisis/safety,High,Self-guided resources,No,No,No,Urgent behavioral health center,Completed,2,2,Yes,Low
+U0311,2026-04-16,45-54,Tolland,Anxiety/stress,Low,Care navigator,Yes,No,Yes,Self-guided resources,Completed,24,25,Yes,High
+U0312,2026-05-25,35-44,Fairfield,School/work stress,Low,In-person therapy,No,No,No,Self-guided resources,Abandoned,10,13,No,Moderate
+U0313,2026-04-16,18-24,Tolland,Substance-related concern,Moderate,Crisis support,No,No,No,Care navigator follow-up,Referred elsewhere,2,4,No,Low
+U0314,2026-02-03,45-54,New Haven,Anxiety/stress,Low,Telehealth,No,No,No,Peer support,Completed,26,26,No,Low
+U0315,2026-05-04,55+,Tolland,School/work stress,Low,In-person therapy,No,No,No,Digital check-in,Pending,20,23,No,Low
+U0316,2026-05-04,25-34,Tolland,Trauma-related concern,High,Peer support,No,No,No,Crisis line,Completed,0,1,No,Low
+U0317,2026-02-18,35-44,Litchfield,Anxiety/stress,Moderate,Telehealth,No,No,Yes,Telehealth appointment,Pending,7,8,No,Low
+U0318,2026-02-09,18-24,Tolland,Family conflict,Moderate,Care navigator,No,No,No,Care navigator follow-up,No response,9,11,No,Moderate
+U0319,2026-05-23,55+,Middlesex,Family conflict,Low,Crisis support,No,No,No,Routine appointment,Abandoned,26,29,No,High
+U0320,2026-06-29,13-17,Fairfield,Depression/mood,Moderate,Crisis support,No,No,No,Telehealth appointment,No response,1,4,No,High
+U0321,2026-06-03,18-24,Windham,Family conflict,Low,Crisis support,No,No,No,Digital check-in,Abandoned,17,19,No,High
+U0322,2026-01-03,18-24,Hartford,Depression/mood,Low,In-person therapy,No,No,No,Peer support,Abandoned,25,26,No,Moderate
+U0323,2026-01-23,55+,Litchfield,Crisis/safety,High,Peer support,No,No,No,Crisis line,Referred elsewhere,2,2,No,Moderate
+U0324,2026-03-12,45-54,New London,Depression/mood,Moderate,Peer support,Yes,No,No,Care navigator follow-up,Pending,1,4,No,Moderate
+U0325,2026-01-30,18-24,Litchfield,Trauma-related concern,Moderate,Crisis support,No,No,No,Care navigator follow-up,No response,10,13,No,Moderate
+U0326,2026-06-24,25-34,Tolland,Family conflict,Moderate,Peer support,No,No,No,Community behavioral health referral,Pending,11,12,No,Low
+U0327,2026-05-13,18-24,New London,Substance-related concern,Moderate,In-person therapy,No,No,Yes,Care navigator follow-up,Pending,2,3,No,Low
+U0328,2026-06-24,18-24,New Haven,Depression/mood,Moderate,Telehealth,Yes,No,No,Outpatient therapy,Abandoned,4,5,No,Moderate
+U0329,2026-01-21,45-54,New London,School/work stress,High,Crisis support,No,Yes,No,Crisis line,Pending,0,1,No,Low
+U0330,2026-02-16,45-54,Litchfield,Trauma-related concern,Low,Crisis support,No,No,No,Self-guided resources,Pending,20,23,No,Low
+U0331,2026-06-25,45-54,New London,Trauma-related concern,Moderate,In-person therapy,No,No,No,Telehealth appointment,Completed,1,2,Yes,Moderate
+U0332,2026-05-21,35-44,New London,Crisis/safety,High,Crisis support,No,No,No,Emergency support,Completed,0,1,No,Moderate
+U0333,2026-02-16,18-24,Fairfield,Substance-related concern,Moderate,Self-guided resources,No,No,Yes,Care navigator follow-up,Pending,13,14,No,Low
+U0334,2026-02-08,35-44,New Haven,Family conflict,Moderate,Self-guided resources,Yes,No,No,Care navigator follow-up,Completed,11,14,Yes,Moderate
+U0335,2026-02-11,25-34,Hartford,Anxiety/stress,Low,Crisis support,No,No,Yes,Routine appointment,Pending,13,15,No,Low
+U0336,2026-02-01,55+,Windham,Crisis/safety,Moderate,Telehealth,No,Yes,No,Outpatient therapy,Completed,12,14,Yes,Low
+U0337,2026-04-08,13-17,Fairfield,Substance-related concern,Moderate,Peer support,No,Yes,No,Care navigator follow-up,Abandoned,5,8,No,High
+U0338,2026-02-28,35-44,Fairfield,Crisis/safety,High,In-person therapy,No,No,No,Urgent behavioral health center,Pending,0,1,No,Moderate
+U0339,2026-01-06,45-54,Hartford,Depression/mood,High,Telehealth,No,No,No,Crisis line,Completed,0,0,Yes,Moderate
+U0340,2026-04-12,18-24,Fairfield,Substance-related concern,High,Telehealth,Yes,No,No,Emergency support,Completed,0,1,Yes,Moderate
+U0341,2026-01-09,45-54,Windham,School/work stress,Low,Self-guided resources,No,No,No,Routine appointment,Completed,21,24,No,Low
+U0342,2026-06-12,25-34,Litchfield,Substance-related concern,Moderate,Crisis support,No,No,No,Community behavioral health referral,Abandoned,9,10,No,Moderate
+U0343,2026-03-08,35-44,New London,Depression/mood,Moderate,Telehealth,Yes,No,No,Care navigator follow-up,Pending,3,6,No,Low
+U0344,2026-04-21,35-44,Middlesex,Trauma-related concern,Moderate,Peer support,Yes,Yes,No,Community behavioral health referral,Completed,7,10,Yes,Moderate
+U0345,2026-01-21,18-24,New London,Family conflict,Moderate,Telehealth,No,No,No,Care navigator follow-up,Completed,4,6,No,Low
+U0346,2026-06-13,18-24,New Haven,Family conflict,Moderate,Peer support,No,No,No,Telehealth appointment,No response,4,4,No,High
+U0347,2026-03-10,25-34,Windham,Depression/mood,High,Self-guided resources,No,No,No,Emergency support,Completed,0,0,No,Moderate
+U0348,2026-01-09,35-44,Hartford,Crisis/safety,High,Telehealth,No,Yes,No,Emergency support,Completed,0,0,No,Low
+U0349,2026-03-05,35-44,Tolland,Family conflict,Moderate,Self-guided resources,No,No,Yes,Community behavioral health referral,Pending,13,13,No,Moderate
+U0350,2026-03-21,25-34,Hartford,Crisis/safety,High,Self-guided resources,No,No,No,Crisis line,Pending,0,1,No,Low
+U0351,2026-02-25,55+,Fairfield,Anxiety/stress,Low,Peer support,No,Yes,No,Self-guided resources,Completed,18,19,Yes,Low
+U0352,2026-01-23,18-24,Windham,Depression/mood,Moderate,In-person therapy,Yes,No,No,Telehealth appointment,Pending,0,2,No,Moderate
+U0353,2026-03-23,35-44,Windham,Substance-related concern,High,Care navigator,No,No,No,Mobile crisis,Completed,0,0,Yes,Low
+U0354,2026-03-17,25-34,Litchfield,Substance-related concern,High,Crisis support,Yes,Yes,No,Emergency support,Completed,0,1,Yes,Moderate
+U0355,2026-01-01,18-24,Windham,Trauma-related concern,Moderate,Care navigator,No,Yes,Yes,Care navigator follow-up,Completed,13,14,Yes,Moderate
+U0356,2026-02-09,35-44,Middlesex,Substance-related concern,Moderate,Telehealth,No,No,Yes,Telehealth appointment,Completed,1,2,Yes,Moderate
+U0357,2026-01-09,18-24,Windham,Substance-related concern,Moderate,Telehealth,No,No,No,Care navigator follow-up,Completed,0,2,Yes,Low
+U0358,2026-04-30,45-54,Hartford,Trauma-related concern,Moderate,Self-guided resources,No,No,No,Care navigator follow-up,Abandoned,14,14,No,Moderate
+U0359,2026-01-19,45-54,Fairfield,Trauma-related concern,Moderate,Care navigator,No,No,Yes,Outpatient therapy,Completed,7,10,Yes,Moderate
+U0360,2026-05-23,45-54,Litchfield,Family conflict,Moderate,Self-guided resources,No,No,No,Community behavioral health referral,Abandoned,2,3,No,Moderate
+U0361,2026-02-10,55+,Litchfield,Substance-related concern,Low,Care navigator,No,No,No,Routine appointment,Abandoned,15,18,No,Moderate
+U0362,2026-03-03,55+,Hartford,Substance-related concern,Moderate,Peer support,No,No,No,Care navigator follow-up,No response,6,9,No,High
+U0363,2026-06-02,45-54,Fairfield,Anxiety/stress,Low,Telehealth,No,No,No,Peer support,Completed,11,13,No,Moderate
+U0364,2026-01-10,55+,New Haven,Family conflict,Low,Self-guided resources,Yes,No,No,Peer support,Completed,13,15,Yes,Moderate
+U0365,2026-03-25,13-17,Hartford,Trauma-related concern,Moderate,Peer support,No,No,No,Telehealth appointment,Completed,9,11,No,Moderate
+U0366,2026-03-31,45-54,Fairfield,Trauma-related concern,Moderate,Peer support,No,Yes,No,Telehealth appointment,Completed,9,12,Yes,Low
+U0367,2026-05-09,18-24,Fairfield,School/work stress,Low,Peer support,Yes,No,No,Digital check-in,Completed,26,26,Yes,Low
+U0368,2026-01-22,45-54,Middlesex,Family conflict,Moderate,Crisis support,Yes,No,Yes,Community behavioral health referral,Abandoned,13,14,No,Moderate
+U0369,2026-04-12,55+,New Haven,School/work stress,Moderate,Telehealth,No,No,No,Outpatient therapy,Abandoned,1,3,No,Moderate
+U0370,2026-06-21,45-54,Fairfield,Family conflict,Low,Crisis support,No,No,No,Self-guided resources,No response,15,16,No,Moderate
+U0371,2026-01-12,25-34,Hartford,Trauma-related concern,Moderate,Peer support,No,Yes,No,Telehealth appointment,Completed,3,3,Yes,Moderate
+U0372,2026-06-27,55+,Hartford,Trauma-related concern,Moderate,Crisis support,No,Yes,No,Outpatient therapy,Pending,3,5,No,Moderate
+U0373,2026-05-30,13-17,Tolland,School/work stress,Low,Self-guided resources,No,Yes,No,Routine appointment,Abandoned,5,8,No,High
+U0374,2026-03-11,25-34,Windham,School/work stress,Moderate,Care navigator,No,No,Yes,Community behavioral health referral,Pending,2,5,No,Moderate
+U0375,2026-05-17,25-34,Windham,Anxiety/stress,Low,Crisis support,No,No,No,Self-guided resources,No response,7,8,No,Moderate
+U0376,2026-02-10,45-54,New London,Anxiety/stress,Low,In-person therapy,No,No,No,Routine appointment,Referred elsewhere,6,8,No,Low
+U0377,2026-02-08,25-34,Litchfield,Crisis/safety,Moderate,Crisis support,No,Yes,No,Outpatient therapy,Pending,7,8,No,Low
+U0378,2026-05-19,55+,Fairfield,Depression/mood,Moderate,Peer support,Yes,No,No,Outpatient therapy,Completed,5,6,No,Moderate
+U0379,2026-01-18,35-44,New London,Substance-related concern,Moderate,Crisis support,No,Yes,No,Outpatient therapy,Abandoned,13,13,No,Moderate
+U0380,2026-06-13,55+,Hartford,School/work stress,Low,Peer support,No,Yes,No,Routine appointment,Abandoned,25,26,No,High
+U0381,2026-01-21,18-24,Middlesex,School/work stress,Moderate,In-person therapy,Yes,No,No,Care navigator follow-up,Pending,1,4,No,Moderate
+U0382,2026-01-09,45-54,Windham,Family conflict,Moderate,Self-guided resources,Yes,No,No,Outpatient therapy,Completed,13,14,No,Low
+U0383,2026-03-25,45-54,New Haven,Trauma-related concern,Moderate,Crisis support,Yes,No,Yes,Community behavioral health referral,Completed,11,13,No,High
+U0384,2026-04-27,18-24,New London,Trauma-related concern,Low,Crisis support,No,No,No,Self-guided resources,Pending,21,24,No,Low
+U0385,2026-04-12,55+,New Haven,Crisis/safety,High,In-person therapy,No,Yes,No,Crisis line,Completed,1,2,Yes,Moderate
+U0386,2026-05-30,25-34,Litchfield,School/work stress,Low,Self-guided resources,No,No,Yes,Digital check-in,Referred elsewhere,24,25,No,Moderate
+U0387,2026-06-16,35-44,Tolland,School/work stress,Moderate,Telehealth,No,Yes,Yes,Community behavioral health referral,Completed,10,12,Yes,High
+U0388,2026-02-13,25-34,Fairfield,Crisis/safety,High,Telehealth,No,Yes,No,Mobile crisis,Completed,2,2,Yes,Low
+U0389,2026-02-03,18-24,Middlesex,Depression/mood,Moderate,Care navigator,No,Yes,No,Community behavioral health referral,Pending,10,10,No,Low
+U0390,2026-06-18,13-17,Fairfield,Family conflict,Low,Telehealth,No,No,Yes,Routine appointment,Completed,25,26,Yes,Low
+U0391,2026-06-20,35-44,Litchfield,Substance-related concern,High,Telehealth,No,No,Yes,Emergency support,Pending,0,0,No,Moderate
+U0392,2026-01-24,25-34,Tolland,Trauma-related concern,Moderate,Care navigator,No,No,Yes,Community behavioral health referral,Completed,10,10,Yes,Low
+U0393,2026-02-23,25-34,Litchfield,School/work stress,Low,In-person therapy,Yes,No,No,Self-guided resources,Pending,20,22,No,Low
+U0394,2026-06-07,13-17,Hartford,Substance-related concern,Moderate,Crisis support,No,No,No,Outpatient therapy,No response,11,13,No,High
+U0395,2026-06-10,13-17,Middlesex,Trauma-related concern,Moderate,Self-guided resources,No,No,No,Community behavioral health referral,Completed,0,2,No,Low
+U0396,2026-03-14,18-24,Middlesex,Crisis/safety,High,Peer support,No,No,No,Crisis line,Completed,0,0,Yes,Low
+U0397,2026-03-28,35-44,Tolland,School/work stress,Low,Self-guided resources,No,Yes,Yes,Peer support,Referred elsewhere,24,27,No,Moderate
+U0398,2026-01-15,13-17,Fairfield,Trauma-related concern,Moderate,Peer support,No,No,No,Telehealth appointment,Abandoned,3,5,No,Moderate
+U0399,2026-01-08,55+,Litchfield,Crisis/safety,Moderate,Self-guided resources,No,No,No,Community behavioral health referral,Referred elsewhere,4,4,No,Moderate
+U0400,2026-01-09,18-24,New Haven,Crisis/safety,High,Crisis support,No,No,No,Urgent behavioral health center,Completed,0,0,Yes,Low
+U0401,2026-05-10,13-17,Fairfield,Anxiety/stress,Moderate,In-person therapy,No,Yes,No,Community behavioral health referral,Abandoned,11,13,No,High
+U0402,2026-01-10,45-54,New London,Family conflict,Low,Telehealth,No,Yes,No,Self-guided resources,Completed,28,28,No,Moderate
+U0403,2026-05-28,25-34,Fairfield,Trauma-related concern,Moderate,In-person therapy,No,No,No,Care navigator follow-up,Abandoned,8,10,No,High
+U0404,2026-03-12,45-54,Middlesex,Anxiety/stress,Low,In-person therapy,No,No,No,Routine appointment,Completed,22,24,No,Moderate
+U0405,2026-01-19,35-44,Fairfield,Crisis/safety,High,Self-guided resources,No,No,Yes,Emergency support,Completed,2,2,Yes,Low
+U0406,2026-06-02,45-54,Fairfield,Substance-related concern,Moderate,Telehealth,No,No,No,Care navigator follow-up,No response,5,5,No,Moderate
+U0407,2026-06-28,25-34,Tolland,Family conflict,Low,In-person therapy,No,No,No,Digital check-in,Completed,13,14,No,Moderate
+U0408,2026-06-29,18-24,New London,School/work stress,Low,Peer support,No,No,No,Self-guided resources,Pending,22,22,No,Moderate
+U0409,2026-06-04,35-44,Tolland,Substance-related concern,Moderate,In-person therapy,Yes,No,No,Care navigator follow-up,Abandoned,10,10,No,Moderate
+U0410,2026-06-08,45-54,Middlesex,Depression/mood,Moderate,In-person therapy,No,No,No,Community behavioral health referral,Pending,11,14,No,Moderate
+U0411,2026-06-19,25-34,Tolland,School/work stress,Low,Telehealth,No,No,No,Digital check-in,Referred elsewhere,17,17,No,Low
+U0412,2026-06-03,18-24,Fairfield,Anxiety/stress,Moderate,Crisis support,No,No,No,Telehealth appointment,Abandoned,2,3,No,High
+U0413,2026-05-17,55+,Litchfield,Crisis/safety,High,Telehealth,No,Yes,No,Urgent behavioral health center,Referred elsewhere,0,1,No,Low
+U0414,2026-05-30,13-17,New London,Anxiety/stress,Moderate,Telehealth,No,No,No,Telehealth appointment,Completed,7,7,Yes,Moderate
+U0415,2026-03-02,18-24,Middlesex,Family conflict,Moderate,Care navigator,No,No,No,Community behavioral health referral,Pending,7,8,No,Moderate
+U0416,2026-04-09,55+,Tolland,Trauma-related concern,Low,In-person therapy,No,Yes,No,Peer support,Completed,11,11,Yes,Low
+U0417,2026-01-22,45-54,Windham,Depression/mood,Moderate,Crisis support,No,No,No,Community behavioral health referral,Pending,10,11,No,Moderate
+U0418,2026-04-01,13-17,Hartford,Depression/mood,Moderate,Care navigator,No,No,No,Outpatient therapy,Completed,11,13,Yes,Moderate
+U0419,2026-05-04,18-24,Windham,School/work stress,Low,Self-guided resources,No,No,Yes,Routine appointment,Pending,21,21,No,Moderate
+U0420,2026-06-19,45-54,Litchfield,School/work stress,Low,Crisis support,No,No,No,Self-guided resources,Pending,17,17,No,Moderate
+U0421,2026-04-01,45-54,Hartford,Trauma-related concern,Moderate,Self-guided resources,Yes,No,No,Care navigator follow-up,Completed,11,13,Yes,Moderate
+U0422,2026-03-16,13-17,New Haven,Trauma-related concern,High,Care navigator,Yes,No,Yes,Crisis line,Completed,0,1,Yes,Moderate
+U0423,2026-02-14,25-34,New Haven,Substance-related concern,High,In-person therapy,No,No,No,Mobile crisis,Abandoned,0,1,No,High
+U0424,2026-06-02,18-24,Litchfield,Trauma-related concern,Moderate,Telehealth,No,No,No,Outpatient therapy,Abandoned,9,12,No,High
+U0425,2026-06-14,25-34,Fairfield,Crisis/safety,High,Care navigator,Yes,Yes,No,Urgent behavioral health center,Completed,0,1,Yes,Moderate
+U0426,2026-04-22,45-54,New London,Anxiety/stress,Low,Peer support,No,No,No,Self-guided resources,No response,8,10,No,Moderate
+U0427,2026-03-11,25-34,Hartford,Crisis/safety,High,Self-guided resources,No,No,No,Mobile crisis,Completed,1,2,Yes,Low
+U0428,2026-01-03,13-17,Middlesex,Trauma-related concern,Moderate,Care navigator,No,No,No,Care navigator follow-up,Completed,3,5,Yes,Low
+U0429,2026-06-13,55+,Windham,Anxiety/stress,Moderate,Peer support,Yes,No,Yes,Outpatient therapy,Completed,2,3,Yes,High
+U0430,2026-04-20,25-34,New London,School/work stress,Moderate,In-person therapy,No,No,No,Telehealth appointment,Completed,6,6,Yes,Low
+U0431,2026-04-23,18-24,New Haven,Anxiety/stress,Low,Crisis support,No,No,No,Digital check-in,Pending,9,10,No,Moderate
+U0432,2026-03-08,13-17,Tolland,Anxiety/stress,Low,Peer support,Yes,No,No,Self-guided resources,Abandoned,21,22,No,High
+U0433,2026-02-08,45-54,Middlesex,School/work stress,Low,Telehealth,No,Yes,No,Digital check-in,Pending,19,22,No,Moderate
+U0434,2026-04-09,25-34,Litchfield,School/work stress,Moderate,Telehealth,No,No,No,Care navigator follow-up,Completed,5,7,Yes,Low
+U0435,2026-04-28,55+,Litchfield,Trauma-related concern,High,Crisis support,No,Yes,Yes,Emergency support,Completed,1,2,Yes,High
+U0436,2026-01-22,35-44,Windham,School/work stress,Low,Telehealth,Yes,Yes,Yes,Peer support,Completed,19,22,Yes,Moderate
+U0437,2026-01-10,13-17,Hartford,Crisis/safety,High,Self-guided resources,No,Yes,Yes,Emergency support,Pending,1,2,No,High
+U0438,2026-02-06,13-17,Windham,Family conflict,Moderate,Care navigator,No,No,Yes,Outpatient therapy,Pending,1,2,No,Low
+U0439,2026-02-13,25-34,New Haven,Trauma-related concern,Moderate,Self-guided resources,No,Yes,No,Outpatient therapy,Completed,2,3,No,Low
+U0440,2026-05-28,18-24,Litchfield,Substance-related concern,Moderate,Care navigator,No,No,No,Outpatient therapy,Completed,7,7,Yes,Moderate
+U0441,2026-02-12,13-17,Hartford,Family conflict,Low,In-person therapy,No,Yes,No,Digital check-in,Referred elsewhere,12,12,No,Moderate
+U0442,2026-01-23,35-44,Middlesex,School/work stress,Moderate,In-person therapy,No,No,No,Community behavioral health referral,Completed,12,13,Yes,Moderate
+U0443,2026-06-06,45-54,New Haven,School/work stress,Low,Care navigator,Yes,No,No,Routine appointment,Completed,15,18,Yes,Moderate
+U0444,2026-04-03,35-44,Fairfield,Trauma-related concern,High,In-person therapy,No,No,No,Mobile crisis,Completed,1,1,No,Moderate
+U0445,2026-06-21,18-24,Hartford,Anxiety/stress,Low,Crisis support,No,No,No,Digital check-in,Abandoned,8,8,No,High
+U0446,2026-05-12,13-17,Middlesex,Anxiety/stress,Low,Self-guided resources,Yes,No,No,Digital check-in,Completed,11,13,Yes,Moderate
+U0447,2026-04-16,35-44,Litchfield,Trauma-related concern,Moderate,In-person therapy,No,Yes,No,Telehealth appointment,Completed,7,8,Yes,Moderate
+U0448,2026-04-28,35-44,Tolland,School/work stress,Low,In-person therapy,No,No,No,Self-guided resources,Completed,29,29,Yes,Moderate
+U0449,2026-03-29,18-24,Windham,Depression/mood,Low,Crisis support,No,No,No,Peer support,Completed,24,25,No,Moderate
+U0450,2026-03-13,35-44,Hartford,Anxiety/stress,Moderate,Telehealth,No,No,No,Outpatient therapy,Referred elsewhere,10,11,No,Low
+U0451,2026-05-01,55+,Tolland,School/work stress,Moderate,In-person therapy,Yes,No,No,Telehealth appointment,Completed,6,9,Yes,Moderate
+U0452,2026-02-03,35-44,Windham,Crisis/safety,High,In-person therapy,No,Yes,No,Urgent behavioral health center,Referred elsewhere,0,0,No,Moderate
+U0453,2026-06-30,45-54,Hartford,Family conflict,Low,Peer support,No,No,No,Self-guided resources,Pending,27,27,No,Moderate
+U0454,2026-04-20,45-54,Litchfield,Trauma-related concern,Moderate,Telehealth,No,No,No,Telehealth appointment,Abandoned,9,11,No,High
+U0455,2026-01-29,55+,Windham,Family conflict,Low,Self-guided resources,No,No,No,Self-guided resources,Completed,23,24,Yes,Low
+U0456,2026-05-29,35-44,Windham,Trauma-related concern,Low,Care navigator,Yes,No,No,Routine appointment,Completed,12,15,Yes,Low
+U0457,2026-05-15,18-24,Windham,Trauma-related concern,Moderate,Telehealth,No,No,No,Care navigator follow-up,Abandoned,7,9,No,High
+U0458,2026-01-21,45-54,Hartford,Family conflict,Moderate,Peer support,No,No,Yes,Care navigator follow-up,Pending,2,3,No,Moderate
+U0459,2026-04-17,45-54,Litchfield,School/work stress,Low,Crisis support,Yes,No,No,Self-guided resources,Completed,15,16,No,Moderate
+U0460,2026-05-29,18-24,New London,Crisis/safety,High,In-person therapy,No,No,No,Emergency support,Pending,0,1,No,Moderate
+U0461,2026-05-04,18-24,Fairfield,Crisis/safety,Moderate,Self-guided resources,No,Yes,No,Community behavioral health referral,Abandoned,3,4,No,Moderate
+U0462,2026-06-27,55+,Litchfield,School/work stress,Moderate,Peer support,Yes,Yes,No,Outpatient therapy,Completed,7,9,Yes,High
+U0463,2026-02-07,25-34,Fairfield,Crisis/safety,High,Telehealth,No,No,Yes,Crisis line,Abandoned,0,1,No,Moderate
+U0464,2026-05-20,13-17,Fairfield,Substance-related concern,Moderate,Self-guided resources,No,No,No,Outpatient therapy,Completed,11,14,Yes,Moderate
+U0465,2026-05-22,45-54,Middlesex,Anxiety/stress,Low,Peer support,No,No,No,Self-guided resources,Abandoned,17,17,No,High
+U0466,2026-02-20,55+,Litchfield,Anxiety/stress,Low,Crisis support,No,No,No,Digital check-in,Completed,10,13,Yes,Low
+U0467,2026-02-07,18-24,Windham,School/work stress,Moderate,Self-guided resources,No,No,No,Care navigator follow-up,Referred elsewhere,3,6,No,Low
+U0468,2026-04-17,13-17,Tolland,Trauma-related concern,Moderate,Telehealth,Yes,No,No,Community behavioral health referral,Completed,4,4,Yes,Low
+U0469,2026-01-02,45-54,Windham,Family conflict,Moderate,Telehealth,No,Yes,No,Outpatient therapy,Abandoned,4,5,No,Moderate
+U0470,2026-03-19,13-17,New London,Trauma-related concern,Moderate,Crisis support,No,No,No,Telehealth appointment,Completed,2,4,Yes,Moderate
+U0471,2026-02-15,25-34,Windham,Family conflict,Moderate,Self-guided resources,No,Yes,No,Community behavioral health referral,Pending,1,3,No,Low
+U0472,2026-01-31,18-24,Hartford,Crisis/safety,High,Peer support,No,No,No,Crisis line,Completed,0,0,Yes,Moderate
+U0473,2026-04-03,13-17,Fairfield,Family conflict,Moderate,Care navigator,No,Yes,No,Telehealth appointment,Abandoned,9,10,No,High
+U0474,2026-03-24,18-24,New London,Trauma-related concern,Moderate,Peer support,No,No,No,Care navigator follow-up,Abandoned,1,3,No,High
+U0475,2026-05-05,13-17,Fairfield,Family conflict,Low,Telehealth,No,Yes,No,Peer support,Pending,13,13,No,Moderate
+U0476,2026-05-03,18-24,Fairfield,Crisis/safety,High,Self-guided resources,No,No,No,Urgent behavioral health center,Completed,0,0,No,Low
+U0477,2026-02-28,13-17,Middlesex,Crisis/safety,High,Telehealth,Yes,Yes,No,Crisis line,Abandoned,0,0,No,Moderate
+U0478,2026-01-09,13-17,Middlesex,Trauma-related concern,High,Care navigator,No,No,No,Crisis line,Pending,0,0,No,Low
+U0479,2026-02-21,45-54,New Haven,Depression/mood,High,Telehealth,Yes,Yes,No,Urgent behavioral health center,Completed,0,2,No,High
+U0480,2026-05-29,25-34,Fairfield,Trauma-related concern,Moderate,Crisis support,Yes,Yes,No,Telehealth appointment,Referred elsewhere,13,13,No,Moderate
+U0481,2026-06-22,13-17,Windham,Anxiety/stress,Low,Telehealth,No,No,No,Peer support,Abandoned,20,20,No,Moderate
+U0482,2026-05-14,55+,Windham,Depression/mood,Moderate,In-person therapy,No,No,No,Telehealth appointment,Completed,4,7,Yes,Moderate
+U0483,2026-05-22,55+,New Haven,Family conflict,Low,Crisis support,No,Yes,Yes,Digital check-in,Completed,26,28,No,Moderate
+U0484,2026-04-23,18-24,Tolland,Substance-related concern,High,Telehealth,Yes,Yes,No,Crisis line,Completed,1,2,No,Moderate
+U0485,2026-03-01,35-44,New London,Trauma-related concern,Moderate,In-person therapy,No,No,No,Care navigator follow-up,Completed,11,14,Yes,Moderate
+U0486,2026-04-27,55+,Hartford,Anxiety/stress,Low,In-person therapy,No,No,No,Self-guided resources,Referred elsewhere,10,10,No,Moderate
+U0487,2026-04-08,25-34,Windham,Substance-related concern,High,Crisis support,Yes,No,Yes,Crisis line,Abandoned,0,2,No,High
+U0488,2026-05-10,35-44,Windham,Crisis/safety,High,Telehealth,No,No,Yes,Crisis line,Completed,1,1,Yes,Low
+U0489,2026-01-09,45-54,Windham,Depression/mood,Moderate,Self-guided resources,No,No,No,Community behavioral health referral,Completed,7,8,Yes,Low
+U0490,2026-05-22,45-54,Litchfield,School/work stress,Low,Peer support,No,No,No,Self-guided resources,Pending,17,19,No,Moderate
+U0491,2026-03-24,25-34,Litchfield,Anxiety/stress,Low,Crisis support,Yes,No,No,Self-guided resources,Pending,25,27,No,Low
+U0492,2026-03-31,13-17,Windham,Anxiety/stress,Moderate,Self-guided resources,Yes,No,No,Telehealth appointment,Completed,6,6,Yes,Low
+U0493,2026-04-19,45-54,New Haven,Substance-related concern,Moderate,Crisis support,No,Yes,No,Telehealth appointment,Pending,4,7,No,Low
+U0494,2026-01-26,55+,New Haven,School/work stress,Moderate,Care navigator,No,No,No,Care navigator follow-up,Completed,2,4,Yes,Moderate
+U0495,2026-02-24,13-17,Windham,Crisis/safety,High,Crisis support,No,No,No,Crisis line,Pending,2,2,No,Moderate
+U0496,2026-02-23,55+,Fairfield,Crisis/safety,High,Telehealth,No,No,No,Emergency support,Completed,0,2,Yes,Moderate
+U0497,2026-06-10,45-54,Middlesex,School/work stress,Low,Peer support,Yes,No,No,Digital check-in,No response,12,15,No,High
+U0498,2026-04-29,25-34,New London,Depression/mood,Moderate,Self-guided resources,No,No,No,Community behavioral health referral,Pending,7,7,No,Moderate
+U0499,2026-02-11,35-44,Hartford,Crisis/safety,High,In-person therapy,Yes,No,Yes,Crisis line,Completed,0,0,Yes,Moderate
+U0500,2026-02-10,13-17,Hartford,Crisis/safety,High,Telehealth,No,No,No,Mobile crisis,No response,2,2,No,Moderate
+U0501,2026-03-22,45-54,New London,Substance-related concern,Moderate,Crisis support,Yes,No,No,Telehealth appointment,Completed,7,8,Yes,Moderate
+U0502,2026-01-24,18-24,New Haven,Depression/mood,Moderate,In-person therapy,No,No,No,Community behavioral health referral,Referred elsewhere,13,14,No,Low
+U0503,2026-02-24,25-34,Fairfield,Crisis/safety,High,Peer support,No,No,No,Urgent behavioral health center,Completed,2,2,Yes,Low
+U0504,2026-05-02,25-34,Tolland,School/work stress,Low,Peer support,No,No,No,Self-guided resources,Abandoned,30,30,No,High
+U0505,2026-06-13,25-34,New London,School/work stress,Low,Telehealth,No,Yes,No,Digital check-in,No response,19,19,No,Moderate
+U0506,2026-03-02,35-44,Tolland,Crisis/safety,High,Peer support,No,No,No,Emergency support,Referred elsewhere,0,0,No,Moderate
+U0507,2026-04-19,13-17,Fairfield,Trauma-related concern,Moderate,Self-guided resources,Yes,No,Yes,Community behavioral health referral,Pending,9,11,No,High
+U0508,2026-04-24,45-54,Tolland,Trauma-related concern,Moderate,Peer support,Yes,No,No,Telehealth appointment,Completed,2,3,Yes,Moderate
+U0509,2026-04-26,35-44,Tolland,Family conflict,Moderate,Care navigator,Yes,Yes,No,Care navigator follow-up,Completed,12,14,Yes,High
+U0510,2026-02-27,35-44,Tolland,Anxiety/stress,Moderate,Care navigator,No,No,No,Telehealth appointment,Completed,8,9,No,Low
+U0511,2026-03-08,13-17,Middlesex,Depression/mood,Moderate,Self-guided resources,No,No,Yes,Community behavioral health referral,Abandoned,11,14,No,Moderate
+U0512,2026-02-22,25-34,Middlesex,Depression/mood,Low,Crisis support,No,No,No,Digital check-in,Referred elsewhere,8,11,No,Low
+U0513,2026-02-16,13-17,Hartford,Family conflict,Moderate,Crisis support,Yes,No,No,Community behavioral health referral,Pending,3,5,No,Low
+U0514,2026-02-04,25-34,Middlesex,Trauma-related concern,Moderate,Crisis support,No,No,No,Community behavioral health referral,Completed,11,13,Yes,Low
+U0515,2026-04-01,25-34,Tolland,Substance-related concern,Low,Self-guided resources,No,No,No,Self-guided resources,Pending,5,7,No,Moderate
+U0516,2026-04-05,18-24,New London,Depression/mood,Low,Telehealth,No,No,No,Digital check-in,Completed,14,17,Yes,Moderate
+U0517,2026-03-22,45-54,New London,Anxiety/stress,High,Care navigator,No,No,No,Urgent behavioral health center,Referred elsewhere,0,1,No,Moderate
+U0518,2026-03-22,18-24,Hartford,Family conflict,Moderate,Crisis support,No,No,No,Outpatient therapy,Completed,7,10,Yes,Low
+U0519,2026-03-08,35-44,Windham,Depression/mood,High,Telehealth,No,No,No,Crisis line,No response,0,1,No,Moderate
+U0520,2026-02-07,45-54,Fairfield,Anxiety/stress,Low,Crisis support,Yes,No,No,Routine appointment,Abandoned,24,25,No,High
+U0521,2026-01-20,25-34,Fairfield,Depression/mood,High,Telehealth,No,No,Yes,Crisis line,Pending,0,1,No,Moderate
+U0522,2026-01-21,25-34,Fairfield,Family conflict,Moderate,In-person therapy,No,No,No,Telehealth appointment,Pending,7,7,No,Moderate
+U0523,2026-01-13,13-17,Hartford,Trauma-related concern,Moderate,In-person therapy,No,Yes,Yes,Community behavioral health referral,Completed,0,3,Yes,Moderate
+U0524,2026-02-11,55+,Fairfield,Family conflict,Moderate,Peer support,No,No,No,Telehealth appointment,Abandoned,3,6,No,Moderate
+U0525,2026-06-20,45-54,Fairfield,Anxiety/stress,Moderate,Crisis support,No,No,No,Community behavioral health referral,Completed,3,6,Yes,Moderate
+U0526,2026-06-11,25-34,Fairfield,Family conflict,Low,In-person therapy,No,No,No,Peer support,Completed,22,22,Yes,Moderate
+U0527,2026-06-25,55+,New London,Crisis/safety,High,Peer support,No,No,Yes,Crisis line,Completed,0,0,Yes,Low
+U0528,2026-03-07,13-17,Tolland,Substance-related concern,Moderate,Self-guided resources,No,Yes,No,Outpatient therapy,Abandoned,13,14,No,High
+U0529,2026-03-18,55+,New Haven,Crisis/safety,High,Crisis support,No,No,No,Urgent behavioral health center,Completed,0,1,Yes,Moderate
+U0530,2026-05-17,55+,Tolland,Anxiety/stress,Low,Peer support,Yes,Yes,No,Digital check-in,Completed,25,28,No,Moderate
+U0531,2026-01-23,55+,Middlesex,Depression/mood,Moderate,Crisis support,Yes,No,No,Outpatient therapy,Pending,1,2,No,Moderate
+U0532,2026-06-10,35-44,Windham,Trauma-related concern,High,Telehealth,Yes,No,No,Emergency support,Completed,1,1,No,Low
+U0533,2026-04-26,35-44,Windham,Substance-related concern,Moderate,Self-guided resources,No,No,No,Care navigator follow-up,Pending,2,2,No,Moderate
+U0534,2026-05-29,45-54,New Haven,Substance-related concern,High,Peer support,No,Yes,No,Emergency support,Completed,0,0,Yes,Low
+U0535,2026-06-15,35-44,Litchfield,Family conflict,Moderate,Crisis support,Yes,No,No,Community behavioral health referral,Completed,10,13,Yes,Moderate
+U0536,2026-03-01,35-44,Litchfield,Substance-related concern,Moderate,Crisis support,No,No,No,Community behavioral health referral,Abandoned,2,4,No,Moderate
+U0537,2026-02-11,35-44,Windham,Substance-related concern,Moderate,Peer support,No,Yes,No,Outpatient therapy,Pending,4,5,No,Moderate
+U0538,2026-03-02,35-44,New Haven,Depression/mood,Moderate,Care navigator,No,No,No,Outpatient therapy,Abandoned,4,4,No,Moderate
+U0539,2026-02-28,55+,Hartford,Anxiety/stress,Moderate,Crisis support,No,No,No,Telehealth appointment,Referred elsewhere,12,14,No,Low
+U0540,2026-04-28,18-24,Litchfield,Trauma-related concern,High,In-person therapy,No,No,No,Crisis line,Completed,2,2,Yes,Low
+U0541,2026-03-16,13-17,Middlesex,School/work stress,Low,Crisis support,No,No,Yes,Routine appointment,Completed,16,17,Yes,Low
+U0542,2026-03-29,18-24,Fairfield,Crisis/safety,High,Crisis support,Yes,No,No,Urgent behavioral health center,Completed,1,2,No,Low
+U0543,2026-04-16,13-17,Litchfield,Family conflict,Moderate,Peer support,No,No,No,Telehealth appointment,Abandoned,8,9,No,High
+U0544,2026-04-13,35-44,Tolland,Trauma-related concern,Moderate,Self-guided resources,Yes,No,No,Outpatient therapy,No response,11,11,No,Moderate
+U0545,2026-06-29,55+,Middlesex,Substance-related concern,Low,Care navigator,No,No,No,Routine appointment,Abandoned,22,23,No,Moderate
+U0546,2026-06-09,13-17,Litchfield,Trauma-related concern,Moderate,Crisis support,No,No,No,Community behavioral health referral,Referred elsewhere,13,14,No,Low
+U0547,2026-02-02,18-24,New London,Substance-related concern,Low,Self-guided resources,No,Yes,No,Routine appointment,Completed,26,27,No,Low
+U0548,2026-04-19,35-44,New London,Substance-related concern,Moderate,Care navigator,Yes,No,No,Care navigator follow-up,Abandoned,3,3,No,High
+U0549,2026-01-02,55+,Tolland,Family conflict,Low,Care navigator,Yes,No,No,Peer support,Completed,16,18,No,Moderate
+U0550,2026-03-05,13-17,Hartford,Anxiety/stress,Low,Crisis support,No,No,No,Self-guided resources,Referred elsewhere,8,11,No,Low
+U0551,2026-02-03,55+,Windham,Family conflict,Low,Self-guided resources,Yes,No,No,Digital check-in,Abandoned,12,15,No,Moderate
+U0552,2026-04-17,55+,Fairfield,Trauma-related concern,Moderate,Care navigator,No,No,No,Telehealth appointment,Pending,12,13,No,Low
+U0553,2026-04-05,25-34,New London,Anxiety/stress,Moderate,Crisis support,No,Yes,No,Telehealth appointment,Completed,9,10,Yes,Low
+U0554,2026-01-08,13-17,Litchfield,Trauma-related concern,Moderate,Telehealth,No,No,No,Care navigator follow-up,Completed,5,6,Yes,Low
+U0555,2026-01-12,35-44,Windham,Family conflict,Low,In-person therapy,No,No,No,Digital check-in,Abandoned,21,22,No,Moderate
+U0556,2026-03-25,55+,New London,Anxiety/stress,Moderate,Self-guided resources,No,No,No,Community behavioral health referral,No response,7,7,No,Moderate
+U0557,2026-01-23,18-24,Hartford,Trauma-related concern,Moderate,Care navigator,Yes,No,No,Care navigator follow-up,Pending,10,10,No,Moderate
+U0558,2026-05-14,55+,Windham,Depression/mood,High,Telehealth,No,Yes,No,Mobile crisis,Abandoned,0,0,No,High
+U0559,2026-05-17,35-44,New London,Substance-related concern,Moderate,Telehealth,No,No,No,Care navigator follow-up,Completed,7,8,No,Moderate
+U0560,2026-01-30,45-54,Litchfield,Anxiety/stress,Low,In-person therapy,No,Yes,No,Peer support,Abandoned,13,16,No,High
+U0561,2026-01-07,13-17,Middlesex,School/work stress,Low,In-person therapy,No,No,No,Routine appointment,No response,12,15,No,High
+U0562,2026-06-02,13-17,Windham,Substance-related concern,Moderate,Telehealth,No,No,No,Care navigator follow-up,Pending,0,2,No,Moderate
+U0563,2026-04-15,55+,Middlesex,School/work stress,Low,In-person therapy,No,No,No,Self-guided resources,Completed,13,14,Yes,Low
+U0564,2026-04-06,55+,Fairfield,Substance-related concern,Low,Telehealth,No,No,No,Digital check-in,Referred elsewhere,8,8,No,Moderate
+U0565,2026-01-16,25-34,New Haven,Family conflict,Low,Crisis support,No,No,No,Peer support,Completed,23,25,Yes,Low
+U0566,2026-06-28,55+,New London,Anxiety/stress,Moderate,Self-guided resources,No,No,No,Outpatient therapy,Referred elsewhere,9,11,No,Moderate
+U0567,2026-04-26,45-54,Windham,Crisis/safety,High,Telehealth,No,No,No,Urgent behavioral health center,Pending,0,0,No,Low
+U0568,2026-01-03,45-54,Hartford,School/work stress,Low,Self-guided resources,No,No,No,Digital check-in,Abandoned,24,24,No,High
+U0569,2026-04-24,35-44,Hartford,School/work stress,Low,In-person therapy,No,No,No,Digital check-in,Completed,12,12,Yes,Low
+U0570,2026-01-06,13-17,New London,Trauma-related concern,Moderate,Crisis support,No,No,Yes,Care navigator follow-up,Completed,13,14,Yes,Low
+U0571,2026-06-30,13-17,Fairfield,School/work stress,Moderate,Self-guided resources,Yes,No,No,Telehealth appointment,Completed,3,6,Yes,Moderate
+U0572,2026-01-17,55+,Windham,Depression/mood,Moderate,Telehealth,No,No,No,Care navigator follow-up,No response,5,5,No,Moderate
+U0573,2026-04-20,35-44,Litchfield,School/work stress,Moderate,Care navigator,No,No,No,Community behavioral health referral,Pending,6,6,No,Moderate
+U0574,2026-01-12,55+,Middlesex,School/work stress,Low,Self-guided resources,No,No,No,Self-guided resources,Completed,18,19,No,Low
+U0575,2026-04-19,25-34,Middlesex,Anxiety/stress,Moderate,Telehealth,Yes,No,Yes,Telehealth appointment,Completed,0,2,Yes,Moderate
+U0576,2026-05-02,45-54,New Haven,Depression/mood,Low,Telehealth,No,No,No,Peer support,Abandoned,6,9,No,Moderate
+U0577,2026-01-16,13-17,Hartford,Anxiety/stress,Low,Care navigator,No,No,No,Self-guided resources,Completed,21,21,Yes,Low
+U0578,2026-01-14,25-34,Hartford,Crisis/safety,High,Crisis support,No,No,No,Crisis line,Completed,0,1,Yes,Low
+U0579,2026-05-13,25-34,Tolland,Crisis/safety,High,Crisis support,Yes,Yes,No,Mobile crisis,Pending,1,2,No,Moderate
+U0580,2026-06-08,18-24,Windham,Family conflict,Low,Peer support,Yes,Yes,Yes,Digital check-in,Completed,21,23,No,High
+U0581,2026-06-04,35-44,Litchfield,Crisis/safety,High,In-person therapy,No,No,No,Mobile crisis,Completed,0,0,No,Low
+U0582,2026-02-21,45-54,New London,School/work stress,Moderate,Crisis support,No,No,No,Community behavioral health referral,Referred elsewhere,9,11,No,Moderate
+U0583,2026-03-26,45-54,Middlesex,Depression/mood,Moderate,In-person therapy,No,No,No,Telehealth appointment,Pending,11,12,No,Moderate
+U0584,2026-05-04,45-54,New Haven,School/work stress,Moderate,In-person therapy,No,No,No,Community behavioral health referral,Completed,4,4,Yes,Low
+U0585,2026-03-16,55+,Fairfield,Family conflict,Low,Peer support,No,No,Yes,Self-guided resources,Completed,12,13,Yes,Low
+U0586,2026-05-22,25-34,Middlesex,Depression/mood,Moderate,Peer support,Yes,No,No,Telehealth appointment,Completed,11,12,No,Moderate
+U0587,2026-04-27,18-24,Middlesex,Depression/mood,Moderate,Care navigator,No,Yes,No,Community behavioral health referral,Completed,13,13,No,Moderate
+U0588,2026-04-07,18-24,Litchfield,School/work stress,Low,In-person therapy,No,No,No,Self-guided resources,Referred elsewhere,25,26,No,Moderate
+U0589,2026-01-14,18-24,Tolland,School/work stress,Moderate,Self-guided resources,No,No,No,Community behavioral health referral,Abandoned,5,5,No,High
+U0590,2026-05-11,18-24,Middlesex,Crisis/safety,High,In-person therapy,No,No,No,Emergency support,Completed,0,2,Yes,Low
+U0591,2026-04-26,13-17,New London,Trauma-related concern,Moderate,Crisis support,Yes,No,No,Outpatient therapy,Pending,5,7,No,Moderate
+U0592,2026-05-13,25-34,Tolland,Crisis/safety,High,Telehealth,Yes,No,No,Emergency support,Completed,0,1,No,Low
+U0593,2026-02-15,45-54,Middlesex,Family conflict,Low,Peer support,No,No,Yes,Self-guided resources,Completed,14,15,Yes,Moderate
+U0594,2026-02-20,13-17,New London,School/work stress,Low,Peer support,No,No,No,Routine appointment,No response,12,13,No,Moderate
+U0595,2026-03-30,18-24,Middlesex,Trauma-related concern,Low,Crisis support,No,No,No,Self-guided resources,Referred elsewhere,21,22,No,Low
+U0596,2026-03-01,18-24,Windham,Substance-related concern,Moderate,Crisis support,No,No,No,Care navigator follow-up,Completed,14,14,Yes,Moderate
+U0597,2026-05-23,55+,New London,Anxiety/stress,Low,Peer support,No,Yes,No,Self-guided resources,Completed,20,22,Yes,Low
+U0598,2026-05-31,35-44,New Haven,Anxiety/stress,Moderate,Care navigator,Yes,Yes,No,Care navigator follow-up,No response,8,11,No,High
+U0599,2026-04-09,55+,Windham,Depression/mood,Moderate,Telehealth,No,No,No,Care navigator follow-up,Completed,2,3,Yes,Low
+U0600,2026-02-17,35-44,Tolland,Depression/mood,Moderate,In-person therapy,No,No,No,Telehealth appointment,Completed,9,9,Yes,Moderate
+U0601,2026-01-29,18-24,New London,Depression/mood,Moderate,Care navigator,No,Yes,No,Outpatient therapy,Completed,3,4,No,Low
+U0602,2026-02-21,45-54,Litchfield,Substance-related concern,High,Care navigator,No,No,No,Emergency support,Pending,0,0,No,Low
+U0603,2026-05-06,35-44,Middlesex,Family conflict,Low,In-person therapy,Yes,Yes,No,Digital check-in,Pending,16,18,No,High
+U0604,2026-06-08,55+,New London,School/work stress,Low,Self-guided resources,No,No,No,Self-guided resources,Completed,19,19,No,Moderate
+U0605,2026-01-18,35-44,Windham,School/work stress,Moderate,In-person therapy,No,No,No,Telehealth appointment,Abandoned,7,7,No,Moderate
+U0606,2026-03-06,35-44,Hartford,Depression/mood,Moderate,Telehealth,No,Yes,No,Community behavioral health referral,Abandoned,6,8,No,High
+U0607,2026-03-06,55+,Windham,Anxiety/stress,Moderate,In-person therapy,Yes,No,No,Community behavioral health referral,Pending,3,3,No,Moderate
+U0608,2026-05-01,18-24,New Haven,Trauma-related concern,Moderate,Self-guided resources,Yes,No,No,Outpatient therapy,Pending,6,6,No,Low
+U0609,2026-01-03,35-44,New London,School/work stress,Low,Crisis support,No,Yes,No,Peer support,Referred elsewhere,21,21,No,Moderate
+U0610,2026-01-14,25-34,Middlesex,Substance-related concern,Moderate,Self-guided resources,No,No,No,Care navigator follow-up,Completed,4,5,Yes,Low
+U0611,2026-06-21,25-34,Middlesex,Anxiety/stress,Low,Care navigator,No,No,No,Peer support,Completed,29,30,Yes,Moderate
+U0612,2026-02-23,18-24,Windham,Substance-related concern,Moderate,In-person therapy,No,No,Yes,Care navigator follow-up,Completed,4,4,Yes,Low
+U0613,2026-01-17,13-17,Fairfield,School/work stress,Moderate,Peer support,No,No,Yes,Outpatient therapy,Abandoned,6,8,No,Moderate
+U0614,2026-01-25,55+,Windham,Substance-related concern,Moderate,Telehealth,No,No,No,Outpatient therapy,Pending,6,7,No,Moderate
+U0615,2026-03-27,25-34,Middlesex,Anxiety/stress,Moderate,Self-guided resources,No,No,No,Outpatient therapy,Completed,10,10,Yes,Low
+U0616,2026-04-20,55+,Litchfield,Trauma-related concern,Moderate,In-person therapy,Yes,Yes,No,Outpatient therapy,Completed,1,4,Yes,Moderate
+U0617,2026-03-13,25-34,Middlesex,Crisis/safety,High,In-person therapy,No,No,No,Urgent behavioral health center,Abandoned,0,0,No,Moderate
+U0618,2026-05-19,35-44,Hartford,Anxiety/stress,Moderate,Telehealth,No,No,No,Outpatient therapy,Pending,8,11,No,Low
+U0619,2026-05-06,18-24,New Haven,Anxiety/stress,High,Crisis support,Yes,No,No,Mobile crisis,Pending,0,0,No,Moderate
+U0620,2026-04-30,25-34,Windham,Crisis/safety,High,Telehealth,Yes,No,No,Urgent behavioral health center,No response,0,1,No,High
+U0621,2026-04-03,25-34,Fairfield,Family conflict,Low,Care navigator,No,No,No,Digital check-in,Completed,8,11,Yes,Low
+U0622,2026-02-14,18-24,Hartford,Crisis/safety,High,Telehealth,No,No,No,Emergency support,Completed,0,0,Yes,Low
+U0623,2026-05-09,35-44,Hartford,School/work stress,Moderate,Telehealth,No,No,No,Care navigator follow-up,Completed,5,8,No,Low
+U0624,2026-04-09,55+,Hartford,Substance-related concern,Moderate,Self-guided resources,No,No,No,Care navigator follow-up,Pending,7,10,No,Moderate
+U0625,2026-04-09,25-34,Middlesex,Family conflict,Moderate,Care navigator,Yes,Yes,No,Telehealth appointment,Completed,12,13,Yes,High
+U0626,2026-05-29,35-44,Fairfield,School/work stress,Moderate,Crisis support,Yes,No,No,Community behavioral health referral,Pending,8,8,No,Moderate
+U0627,2026-03-06,13-17,Litchfield,School/work stress,Low,In-person therapy,No,No,No,Routine appointment,Abandoned,27,30,No,High
+U0628,2026-03-10,45-54,Tolland,School/work stress,Low,Self-guided resources,No,No,Yes,Peer support,Completed,22,22,No,Low
+U0629,2026-03-15,18-24,Middlesex,School/work stress,Low,Telehealth,Yes,Yes,Yes,Digital check-in,Pending,12,12,No,High
+U0630,2026-02-16,25-34,New Haven,Trauma-related concern,High,Peer support,No,No,No,Crisis line,Completed,1,2,Yes,Low
+U0631,2026-01-08,13-17,Middlesex,Substance-related concern,Moderate,Care navigator,No,No,Yes,Care navigator follow-up,Pending,14,14,No,Moderate
+U0632,2026-01-02,25-34,Litchfield,Family conflict,Moderate,Peer support,No,No,No,Community behavioral health referral,Pending,12,14,No,Moderate
+U0633,2026-03-03,13-17,New Haven,Crisis/safety,High,Care navigator,No,Yes,No,Urgent behavioral health center,Completed,0,0,Yes,Moderate
+U0634,2026-03-13,55+,Litchfield,School/work stress,Moderate,Telehealth,Yes,No,No,Community behavioral health referral,Pending,7,10,No,Moderate
+U0635,2026-06-12,25-34,Tolland,Crisis/safety,Moderate,Crisis support,No,No,No,Outpatient therapy,Completed,8,11,Yes,Low
+U0636,2026-06-18,55+,Windham,Trauma-related concern,High,In-person therapy,Yes,No,No,Mobile crisis,Completed,2,2,No,Low
+U0637,2026-04-25,18-24,Litchfield,Anxiety/stress,Low,Crisis support,No,No,No,Self-guided resources,No response,7,10,No,High
+U0638,2026-03-13,45-54,New Haven,Depression/mood,High,Self-guided resources,No,No,No,Mobile crisis,Completed,0,2,Yes,Low
+U0639,2026-03-29,13-17,New Haven,Family conflict,Moderate,Peer support,No,No,No,Community behavioral health referral,Completed,13,14,Yes,Low
+U0640,2026-06-01,35-44,Tolland,Depression/mood,High,Peer support,Yes,No,No,Emergency support,Completed,2,2,Yes,Moderate
+U0641,2026-04-04,18-24,New London,Trauma-related concern,High,In-person therapy,No,No,No,Mobile crisis,Completed,0,0,No,Moderate
+U0642,2026-05-08,25-34,Windham,School/work stress,Low,Self-guided resources,No,Yes,No,Self-guided resources,Completed,24,26,No,Moderate
+U0643,2026-02-25,55+,Hartford,Family conflict,Low,In-person therapy,No,Yes,No,Peer support,Referred elsewhere,28,29,No,Moderate
+U0644,2026-05-05,35-44,Tolland,School/work stress,Low,Telehealth,No,No,No,Self-guided resources,Completed,21,24,Yes,Moderate
+U0645,2026-05-16,55+,New London,School/work stress,Low,Crisis support,No,Yes,No,Digital check-in,Completed,9,10,No,Moderate
+U0646,2026-06-17,25-34,New Haven,Depression/mood,Moderate,Self-guided resources,No,No,No,Outpatient therapy,Abandoned,4,5,No,High
+U0647,2026-02-07,45-54,Tolland,Family conflict,High,In-person therapy,No,No,No,Crisis line,Completed,0,1,Yes,Moderate
+U0648,2026-06-10,35-44,Tolland,School/work stress,Low,Peer support,Yes,No,No,Peer support,Abandoned,24,27,No,High
+U0649,2026-06-11,35-44,Windham,School/work stress,Low,Self-guided resources,Yes,Yes,Yes,Peer support,Completed,4,7,Yes,High
+U0650,2026-06-29,13-17,New Haven,Family conflict,Low,In-person therapy,Yes,No,No,Peer support,Pending,19,19,No,Low
+U0651,2026-06-18,13-17,New London,Anxiety/stress,Low,Telehealth,No,Yes,No,Routine appointment,Completed,10,10,Yes,Moderate
+U0652,2026-01-22,55+,Windham,Anxiety/stress,Low,In-person therapy,No,No,No,Self-guided resources,Completed,12,14,No,Moderate
+U0653,2026-05-28,18-24,Hartford,Family conflict,Moderate,In-person therapy,No,No,No,Outpatient therapy,Pending,13,13,No,Low
+U0654,2026-02-06,13-17,New London,Crisis/safety,Moderate,Peer support,Yes,Yes,No,Care navigator follow-up,Abandoned,5,6,No,Moderate
+U0655,2026-04-08,55+,New London,School/work stress,Moderate,Self-guided resources,No,Yes,No,Community behavioral health referral,Pending,12,13,No,Moderate
+U0656,2026-06-28,13-17,Middlesex,School/work stress,Low,Telehealth,No,No,No,Peer support,Completed,19,20,No,Moderate
+U0657,2026-03-11,18-24,New London,Anxiety/stress,Low,Telehealth,No,No,No,Self-guided resources,Abandoned,16,18,No,High
+U0658,2026-01-26,13-17,Litchfield,Family conflict,High,Self-guided resources,Yes,No,No,Crisis line,Pending,0,0,No,Low
+U0659,2026-05-27,35-44,Fairfield,Trauma-related concern,Moderate,Peer support,No,Yes,Yes,Care navigator follow-up,Completed,11,14,No,Moderate
+U0660,2026-01-03,55+,Tolland,School/work stress,Low,Self-guided resources,Yes,Yes,No,Routine appointment,Abandoned,6,8,No,High
+U0661,2026-04-28,35-44,Litchfield,Depression/mood,Moderate,Telehealth,No,No,No,Community behavioral health referral,Completed,9,10,No,Moderate
+U0662,2026-06-12,13-17,Tolland,Anxiety/stress,Low,Self-guided resources,Yes,Yes,No,Self-guided resources,Abandoned,28,30,No,Moderate
+U0663,2026-05-11,55+,Tolland,School/work stress,Low,Self-guided resources,No,No,No,Self-guided resources,Abandoned,19,19,No,High
+U0664,2026-05-17,18-24,New Haven,School/work stress,Low,Peer support,No,No,No,Self-guided resources,No response,23,26,No,High
+U0665,2026-02-04,25-34,New London,Substance-related concern,Moderate,Crisis support,Yes,No,No,Telehealth appointment,Abandoned,6,7,No,High
+U0666,2026-03-17,13-17,Litchfield,Crisis/safety,High,Telehealth,No,No,No,Urgent behavioral health center,Referred elsewhere,2,2,No,Moderate
+U0667,2026-06-07,13-17,Fairfield,Family conflict,Low,Crisis support,No,Yes,No,Peer support,Completed,17,19,Yes,Moderate
+U0668,2026-02-01,45-54,New London,Family conflict,Low,Telehealth,No,No,No,Routine appointment,Pending,14,16,No,Low
+U0669,2026-04-23,35-44,Tolland,School/work stress,Moderate,Self-guided resources,Yes,No,No,Care navigator follow-up,Completed,12,13,Yes,Moderate
+U0670,2026-03-26,55+,Fairfield,Anxiety/stress,Low,Peer support,Yes,No,No,Routine appointment,Pending,7,10,No,Low
+U0671,2026-04-13,13-17,Litchfield,Substance-related concern,High,Crisis support,No,No,Yes,Crisis line,Completed,0,0,Yes,Moderate
+U0672,2026-06-02,18-24,New London,School/work stress,Low,Telehealth,No,No,Yes,Digital check-in,Abandoned,13,14,No,High
+U0673,2026-03-09,18-24,New Haven,School/work stress,Low,In-person therapy,No,Yes,No,Self-guided resources,Completed,28,29,No,Moderate
+U0674,2026-04-13,55+,Middlesex,Anxiety/stress,Low,In-person therapy,Yes,Yes,Yes,Peer support,Pending,9,9,No,Moderate
+U0675,2026-03-28,18-24,Litchfield,Family conflict,Low,Telehealth,No,No,No,Routine appointment,No response,16,18,No,Moderate
+U0676,2026-02-16,35-44,Litchfield,Anxiety/stress,Low,Peer support,No,No,No,Routine appointment,Pending,26,26,No,Moderate
+U0677,2026-03-19,18-24,New London,Anxiety/stress,Low,In-person therapy,Yes,No,No,Routine appointment,Abandoned,16,18,No,Moderate
+U0678,2026-05-30,13-17,Litchfield,Family conflict,Low,Peer support,Yes,No,No,Self-guided resources,Completed,24,25,Yes,Moderate
+U0679,2026-05-02,55+,New Haven,Trauma-related concern,Moderate,Crisis support,No,Yes,No,Care navigator follow-up,Referred elsewhere,12,14,No,Low
+U0680,2026-01-18,55+,Middlesex,Family conflict,Low,Self-guided resources,No,No,Yes,Routine appointment,Completed,28,29,No,Moderate
+U0681,2026-04-12,13-17,Fairfield,Family conflict,Moderate,Care navigator,No,No,No,Community behavioral health referral,Completed,7,10,Yes,Low
+U0682,2026-02-25,18-24,Middlesex,Substance-related concern,High,Telehealth,No,No,No,Urgent behavioral health center,Completed,0,1,Yes,Low
+U0683,2026-05-17,18-24,New Haven,Depression/mood,Moderate,Telehealth,No,No,No,Outpatient therapy,Pending,6,6,No,Low
+U0684,2026-06-16,13-17,Hartford,Crisis/safety,High,Peer support,No,No,No,Urgent behavioral health center,Completed,1,2,Yes,Moderate
+U0685,2026-02-26,55+,Middlesex,School/work stress,High,Crisis support,Yes,No,No,Crisis line,Referred elsewhere,0,2,No,Low
+U0686,2026-02-26,25-34,Fairfield,Crisis/safety,High,Crisis support,No,No,No,Mobile crisis,Pending,0,1,No,Moderate
+U0687,2026-01-24,25-34,Fairfield,Family conflict,Low,In-person therapy,Yes,No,No,Digital check-in,Abandoned,29,30,No,High
+U0688,2026-04-11,45-54,New Haven,School/work stress,Moderate,Crisis support,Yes,Yes,No,Community behavioral health referral,Abandoned,2,3,No,High
+U0689,2026-04-09,13-17,New Haven,Anxiety/stress,Low,Care navigator,Yes,No,No,Peer support,Completed,14,14,No,Moderate
+U0690,2026-03-28,45-54,New London,Trauma-related concern,High,Self-guided resources,Yes,No,No,Emergency support,Completed,0,0,Yes,Moderate
+U0691,2026-05-20,18-24,Tolland,Anxiety/stress,Low,Crisis support,Yes,No,Yes,Digital check-in,No response,11,11,No,High
+U0692,2026-02-07,13-17,New London,Crisis/safety,High,Peer support,Yes,No,No,Crisis line,No response,0,1,No,High
+U0693,2026-01-20,55+,Tolland,Substance-related concern,Moderate,In-person therapy,No,No,Yes,Telehealth appointment,Completed,10,11,Yes,Moderate
+U0694,2026-06-20,13-17,Fairfield,School/work stress,Low,Self-guided resources,No,No,Yes,Digital check-in,No response,26,28,No,High
+U0695,2026-02-07,18-24,New Haven,Crisis/safety,High,Peer support,No,No,No,Crisis line,No response,0,0,No,Moderate
+U0696,2026-02-02,35-44,Tolland,Depression/mood,High,Care navigator,No,No,No,Emergency support,Completed,0,2,No,Low
+U0697,2026-05-08,25-34,Hartford,Substance-related concern,Moderate,In-person therapy,No,No,No,Community behavioral health referral,Abandoned,9,10,No,High
+U0698,2026-01-05,18-24,Middlesex,Crisis/safety,High,In-person therapy,No,No,Yes,Urgent behavioral health center,Completed,0,1,Yes,Low
+U0699,2026-01-15,55+,New Haven,School/work stress,Low,Crisis support,No,No,No,Self-guided resources,Pending,26,29,No,Low
+U0700,2026-06-02,55+,New London,Trauma-related concern,Moderate,Crisis support,Yes,Yes,No,Telehealth appointment,Completed,8,11,Yes,High
+U0701,2026-04-16,45-54,Fairfield,School/work stress,Low,Telehealth,No,No,No,Peer support,Abandoned,8,8,No,High
+U0702,2026-04-12,18-24,New London,Trauma-related concern,Moderate,Telehealth,No,No,No,Care navigator follow-up,Abandoned,9,11,No,Moderate
+U0703,2026-05-14,55+,Windham,Family conflict,High,Crisis support,Yes,No,No,Mobile crisis,Abandoned,0,1,No,High
+U0704,2026-03-22,13-17,Middlesex,School/work stress,Moderate,Peer support,No,Yes,No,Community behavioral health referral,Completed,3,5,Yes,Low
+U0705,2026-02-11,18-24,New London,Substance-related concern,Moderate,Telehealth,Yes,Yes,No,Outpatient therapy,Pending,9,10,No,High
+U0706,2026-05-26,35-44,Middlesex,Substance-related concern,Moderate,Peer support,No,No,Yes,Telehealth appointment,No response,6,6,No,Moderate
+U0707,2026-04-11,45-54,Hartford,School/work stress,Low,Peer support,Yes,No,No,Self-guided resources,Completed,22,23,No,Low
+U0708,2026-02-11,45-54,Litchfield,Depression/mood,High,Crisis support,Yes,No,No,Mobile crisis,Abandoned,0,0,No,High
+U0709,2026-02-03,18-24,Windham,Crisis/safety,High,Telehealth,No,No,Yes,Emergency support,No response,0,0,No,High
+U0710,2026-01-04,18-24,New Haven,Depression/mood,High,Peer support,No,No,No,Crisis line,Completed,1,1,Yes,Moderate
+U0711,2026-05-28,13-17,Windham,Crisis/safety,High,Telehealth,Yes,No,No,Emergency support,Pending,0,1,No,Moderate
+U0712,2026-04-04,25-34,Hartford,Trauma-related concern,Moderate,Care navigator,No,No,No,Community behavioral health referral,Completed,5,7,Yes,Moderate
+U0713,2026-06-14,18-24,Tolland,Anxiety/stress,Moderate,Crisis support,Yes,No,Yes,Telehealth appointment,Completed,3,6,Yes,High
+U0714,2026-06-21,35-44,Middlesex,Anxiety/stress,Low,Crisis support,No,No,No,Self-guided resources,Abandoned,8,9,No,Moderate
+U0715,2026-03-26,35-44,Fairfield,Anxiety/stress,Low,Self-guided resources,No,No,No,Digital check-in,Pending,8,10,No,Low
+U0716,2026-02-24,55+,Tolland,Crisis/safety,High,Peer support,No,No,Yes,Urgent behavioral health center,Completed,0,1,Yes,Moderate
+U0717,2026-03-06,18-24,Hartford,School/work stress,Low,Telehealth,Yes,No,Yes,Digital check-in,Abandoned,19,20,No,Moderate
+U0718,2026-04-20,25-34,Tolland,Crisis/safety,Moderate,Telehealth,No,Yes,No,Community behavioral health referral,No response,8,9,No,Moderate
+U0719,2026-05-24,35-44,Litchfield,Trauma-related concern,Low,Telehealth,Yes,No,No,Peer support,Completed,15,17,No,Moderate
+U0720,2026-06-22,13-17,Middlesex,Family conflict,Low,Self-guided resources,No,No,No,Peer support,Abandoned,24,27,No,High
+U0721,2026-02-18,25-34,New Haven,Family conflict,Moderate,Self-guided resources,No,No,No,Outpatient therapy,Completed,5,5,Yes,Moderate
+U0722,2026-05-08,25-34,Fairfield,School/work stress,High,Care navigator,No,No,No,Emergency support,Completed,0,2,Yes,Moderate
+U0723,2026-06-02,13-17,New Haven,Depression/mood,Moderate,Telehealth,No,No,No,Community behavioral health referral,Abandoned,10,12,No,High
+U0724,2026-06-16,55+,New London,Anxiety/stress,Moderate,Crisis support,No,No,No,Telehealth appointment,Pending,9,12,No,Low
+U0725,2026-02-24,13-17,Litchfield,Depression/mood,High,In-person therapy,No,Yes,No,Crisis line,Completed,0,1,No,Low
+U0726,2026-05-10,13-17,Hartford,Crisis/safety,High,In-person therapy,No,No,No,Emergency support,Completed,1,2,No,Low
+U0727,2026-04-06,45-54,Tolland,Trauma-related concern,High,In-person therapy,No,No,No,Emergency support,Completed,0,0,Yes,Low
+U0728,2026-06-12,45-54,New Haven,Family conflict,High,Self-guided resources,Yes,No,No,Emergency support,Pending,0,0,No,Moderate
+U0729,2026-05-28,55+,Fairfield,Trauma-related concern,Moderate,Telehealth,No,No,No,Outpatient therapy,Completed,6,7,Yes,Low
+U0730,2026-06-08,25-34,Middlesex,School/work stress,Low,Care navigator,No,No,Yes,Peer support,Completed,19,21,Yes,Moderate
+U0731,2026-03-04,13-17,Windham,School/work stress,Moderate,Care navigator,No,No,No,Care navigator follow-up,Pending,2,3,No,Low
+U0732,2026-02-01,13-17,Windham,Anxiety/stress,Low,Self-guided resources,No,Yes,Yes,Routine appointment,Completed,10,13,No,Moderate
+U0733,2026-01-20,13-17,Litchfield,Depression/mood,High,Peer support,No,No,No,Mobile crisis,Completed,0,0,Yes,Low
+U0734,2026-05-04,18-24,Litchfield,Substance-related concern,Moderate,Telehealth,Yes,No,No,Telehealth appointment,Pending,5,5,No,Moderate
+U0735,2026-02-25,35-44,Windham,Anxiety/stress,Low,Crisis support,Yes,No,No,Routine appointment,Completed,12,15,Yes,Low
+U0736,2026-05-12,18-24,Middlesex,Family conflict,Moderate,Self-guided resources,No,Yes,No,Care navigator follow-up,Pending,8,8,No,Low
+U0737,2026-05-05,55+,New Haven,Family conflict,Moderate,Crisis support,No,No,No,Telehealth appointment,Completed,8,11,Yes,Moderate
+U0738,2026-02-12,18-24,Litchfield,Anxiety/stress,High,In-person therapy,No,No,No,Urgent behavioral health center,Completed,1,1,No,Moderate
+U0739,2026-01-19,35-44,Litchfield,Depression/mood,High,In-person therapy,No,No,Yes,Urgent behavioral health center,Pending,2,2,No,Moderate
+U0740,2026-05-24,55+,Tolland,Anxiety/stress,Low,Peer support,No,No,Yes,Routine appointment,Abandoned,29,29,No,Moderate
+U0741,2026-03-23,45-54,Tolland,Depression/mood,Moderate,In-person therapy,No,No,No,Community behavioral health referral,Pending,3,3,No,Moderate
+U0742,2026-05-28,13-17,Hartford,Anxiety/stress,Low,Peer support,No,No,No,Digital check-in,Referred elsewhere,15,16,No,Moderate
+U0743,2026-06-15,35-44,Hartford,Anxiety/stress,Low,Crisis support,Yes,No,No,Routine appointment,Pending,15,17,No,Low
+U0744,2026-03-18,18-24,New Haven,School/work stress,High,Peer support,No,No,No,Urgent behavioral health center,Completed,2,2,Yes,Low
+U0745,2026-06-26,25-34,Hartford,School/work stress,Low,Telehealth,Yes,Yes,No,Routine appointment,No response,24,24,No,High
+U0746,2026-01-13,13-17,Fairfield,Crisis/safety,High,Peer support,No,No,No,Urgent behavioral health center,Referred elsewhere,1,2,No,Moderate
+U0747,2026-02-07,25-34,Litchfield,Trauma-related concern,Moderate,Self-guided resources,No,No,No,Telehealth appointment,Pending,9,10,No,Moderate
+U0748,2026-05-04,35-44,Hartford,Depression/mood,Moderate,In-person therapy,No,No,No,Outpatient therapy,Pending,11,12,No,Low
+U0749,2026-01-04,55+,Windham,School/work stress,Low,Self-guided resources,No,Yes,Yes,Peer support,Abandoned,23,25,No,Moderate
+U0750,2026-02-09,13-17,New London,Trauma-related concern,Moderate,Crisis support,No,No,No,Community behavioral health referral,Abandoned,10,11,No,High
+U0751,2026-02-12,25-34,Hartford,School/work stress,Low,Crisis support,No,No,Yes,Self-guided resources,Completed,30,30,No,Moderate
+U0752,2026-06-19,13-17,Windham,Substance-related concern,Moderate,Peer support,No,No,Yes,Community behavioral health referral,Completed,4,5,Yes,Low
+U0753,2026-04-05,45-54,Tolland,Anxiety/stress,Low,Telehealth,No,No,No,Peer support,Abandoned,18,19,No,Moderate
+U0754,2026-06-24,18-24,Tolland,Anxiety/stress,Moderate,Crisis support,No,No,Yes,Telehealth appointment,Completed,9,11,Yes,Low
+U0755,2026-04-11,55+,Hartford,Anxiety/stress,Low,Telehealth,No,No,No,Peer support,Abandoned,11,13,No,Moderate
+U0756,2026-02-17,18-24,Litchfield,Substance-related concern,Low,Crisis support,No,No,No,Peer support,Abandoned,10,12,No,High
+U0757,2026-02-06,45-54,Hartford,Anxiety/stress,Moderate,Crisis support,No,Yes,No,Telehealth appointment,Pending,4,4,No,Low
+U0758,2026-03-05,13-17,New London,Family conflict,Low,Self-guided resources,No,No,No,Peer support,Abandoned,22,23,No,High
+U0759,2026-03-27,45-54,Windham,Family conflict,Low,Telehealth,No,No,No,Routine appointment,Completed,15,18,Yes,Moderate
+U0760,2026-03-11,18-24,Tolland,School/work stress,Low,Peer support,No,Yes,No,Peer support,Pending,27,28,No,Moderate
+U0761,2026-02-22,25-34,Litchfield,School/work stress,Low,Peer support,No,No,Yes,Routine appointment,No response,24,27,No,High
+U0762,2026-04-11,25-34,New Haven,Substance-related concern,Moderate,Telehealth,No,No,Yes,Care navigator follow-up,Completed,11,11,Yes,Low
+U0763,2026-05-08,35-44,Hartford,School/work stress,Low,In-person therapy,No,No,No,Peer support,Completed,13,16,No,Low
+U0764,2026-03-14,13-17,New London,Trauma-related concern,Moderate,In-person therapy,Yes,No,No,Telehealth appointment,Completed,0,2,No,Moderate
+U0765,2026-02-20,25-34,New London,Family conflict,Moderate,Care navigator,Yes,No,No,Care navigator follow-up,Completed,2,5,No,Moderate
+U0766,2026-03-21,13-17,New London,Depression/mood,Moderate,Care navigator,No,No,No,Outpatient therapy,Completed,5,6,Yes,Moderate
+U0767,2026-06-10,35-44,Litchfield,Family conflict,Low,Crisis support,No,No,No,Peer support,Abandoned,20,23,No,Moderate
+U0768,2026-04-30,18-24,Litchfield,Family conflict,High,In-person therapy,No,No,Yes,Emergency support,Pending,0,0,No,Low
+U0769,2026-06-08,13-17,New Haven,Substance-related concern,Low,Telehealth,No,Yes,No,Peer support,Pending,19,19,No,Low
+U0770,2026-03-11,55+,Hartford,Trauma-related concern,Low,Self-guided resources,Yes,No,No,Digital check-in,Referred elsewhere,27,29,No,Moderate
+U0771,2026-02-22,35-44,Middlesex,Substance-related concern,Moderate,Telehealth,No,No,No,Outpatient therapy,Abandoned,4,6,No,High
+U0772,2026-01-18,35-44,Hartford,Anxiety/stress,Low,Telehealth,No,No,No,Self-guided resources,Referred elsewhere,22,22,No,Moderate
+U0773,2026-03-18,35-44,Fairfield,Family conflict,Low,Self-guided resources,Yes,No,No,Routine appointment,Referred elsewhere,23,26,No,Moderate
+U0774,2026-01-06,25-34,New London,Depression/mood,Moderate,Crisis support,No,No,No,Outpatient therapy,Completed,6,9,Yes,Moderate
+U0775,2026-04-09,45-54,New London,School/work stress,Moderate,Telehealth,No,No,Yes,Care navigator follow-up,Pending,9,9,No,Moderate
+U0776,2026-06-15,45-54,Middlesex,School/work stress,Moderate,Peer support,No,Yes,No,Outpatient therapy,Completed,6,9,No,Low
+U0777,2026-06-30,35-44,New Haven,Substance-related concern,Moderate,Self-guided resources,Yes,No,No,Care navigator follow-up,Completed,8,9,No,Low
+U0778,2026-05-04,45-54,Tolland,Family conflict,High,Telehealth,No,Yes,No,Urgent behavioral health center,Pending,0,0,No,Low
+U0779,2026-01-12,13-17,Fairfield,Anxiety/stress,Moderate,Self-guided resources,Yes,Yes,Yes,Community behavioral health referral,No response,6,7,No,High
+U0780,2026-04-09,45-54,Hartford,Trauma-related concern,Low,In-person therapy,No,Yes,No,Self-guided resources,Pending,30,30,No,Low
+U0781,2026-03-24,18-24,Middlesex,Anxiety/stress,Moderate,Self-guided resources,No,No,No,Outpatient therapy,Pending,3,5,No,Moderate
+U0782,2026-02-11,25-34,Tolland,Family conflict,Moderate,Care navigator,No,Yes,No,Telehealth appointment,Abandoned,5,5,No,High
+U0783,2026-05-20,45-54,Litchfield,Trauma-related concern,Moderate,Peer support,Yes,No,No,Community behavioral health referral,Pending,4,5,No,Low
+U0784,2026-06-08,13-17,Windham,Substance-related concern,Low,In-person therapy,No,No,No,Self-guided resources,Completed,25,25,Yes,Low
+U0785,2026-01-14,13-17,Middlesex,Substance-related concern,Moderate,Care navigator,Yes,No,No,Care navigator follow-up,Completed,6,8,No,Low
+U0786,2026-06-06,25-34,Hartford,Substance-related concern,Moderate,In-person therapy,No,No,No,Community behavioral health referral,Completed,6,6,Yes,Low
+U0787,2026-02-22,25-34,New Haven,Substance-related concern,High,Crisis support,No,No,No,Crisis line,Completed,0,0,No,Low
+U0788,2026-06-03,55+,Litchfield,School/work stress,Moderate,Crisis support,Yes,No,No,Care navigator follow-up,Completed,13,13,Yes,Moderate
+U0789,2026-05-03,45-54,Windham,Crisis/safety,High,Telehealth,No,No,No,Crisis line,Pending,0,0,No,Low
+U0790,2026-04-10,25-34,Middlesex,Trauma-related concern,Moderate,Peer support,Yes,No,No,Telehealth appointment,Referred elsewhere,9,9,No,Low
+U0791,2026-04-22,13-17,Fairfield,Anxiety/stress,Low,Crisis support,Yes,Yes,No,Self-guided resources,Referred elsewhere,6,7,No,High
+U0792,2026-02-16,13-17,New London,Crisis/safety,High,Care navigator,No,No,No,Urgent behavioral health center,Completed,0,0,Yes,Low
+U0793,2026-02-22,55+,Middlesex,Family conflict,Moderate,Care navigator,No,No,No,Community behavioral health referral,Referred elsewhere,11,13,No,Moderate
+U0794,2026-03-10,25-34,Middlesex,Crisis/safety,High,Telehealth,No,Yes,No,Emergency support,Completed,1,1,Yes,Moderate
+U0795,2026-04-06,25-34,New London,School/work stress,Moderate,Care navigator,Yes,No,No,Community behavioral health referral,Pending,3,3,No,Moderate
+U0796,2026-04-09,35-44,Fairfield,Crisis/safety,High,Self-guided resources,Yes,No,No,Emergency support,Completed,0,0,Yes,Moderate
+U0797,2026-04-21,45-54,Middlesex,Substance-related concern,Moderate,Telehealth,No,No,No,Telehealth appointment,Referred elsewhere,9,11,No,Moderate
+U0798,2026-03-29,45-54,Windham,School/work stress,Moderate,Crisis support,No,No,No,Telehealth appointment,Pending,14,14,No,Moderate
+U0799,2026-05-27,13-17,Middlesex,School/work stress,Moderate,Care navigator,No,Yes,No,Outpatient therapy,Completed,4,4,Yes,Low
+U0800,2026-03-17,25-34,Fairfield,Crisis/safety,High,Crisis support,Yes,No,No,Urgent behavioral health center,Completed,2,2,Yes,Low
+U0801,2026-04-29,25-34,Litchfield,Anxiety/stress,Low,Telehealth,No,No,No,Peer support,Abandoned,20,20,No,High
+U0802,2026-04-23,18-24,New Haven,Depression/mood,Moderate,Self-guided resources,No,No,No,Outpatient therapy,Completed,11,12,Yes,Low
+U0803,2026-01-10,55+,Litchfield,Depression/mood,High,Care navigator,No,No,Yes,Mobile crisis,No response,0,0,No,High
+U0804,2026-01-12,13-17,Tolland,Substance-related concern,Moderate,Peer support,Yes,No,Yes,Telehealth appointment,Completed,4,5,Yes,Moderate
+U0805,2026-02-06,25-34,Hartford,Anxiety/stress,Low,Peer support,No,No,No,Routine appointment,Abandoned,20,22,No,High
+U0806,2026-02-08,55+,Fairfield,Substance-related concern,Moderate,Crisis support,No,No,No,Care navigator follow-up,Abandoned,2,5,No,High
+U0807,2026-06-16,45-54,Windham,Anxiety/stress,High,Self-guided resources,No,No,No,Emergency support,Abandoned,2,2,No,High
+U0808,2026-05-15,18-24,Windham,Substance-related concern,Moderate,Peer support,No,No,No,Outpatient therapy,Abandoned,6,7,No,Moderate
+U0809,2026-01-30,45-54,Middlesex,School/work stress,Low,Crisis support,No,No,No,Routine appointment,No response,24,24,No,Moderate
+U0810,2026-04-18,25-34,Litchfield,Depression/mood,Moderate,Telehealth,No,Yes,No,Community behavioral health referral,Pending,11,12,No,Low
+U0811,2026-01-21,45-54,Windham,Family conflict,Low,Self-guided resources,No,No,No,Peer support,Completed,9,12,Yes,Moderate
+U0812,2026-01-26,18-24,Tolland,Depression/mood,Low,Self-guided resources,No,Yes,No,Self-guided resources,No response,8,11,No,Moderate
+U0813,2026-05-23,35-44,Windham,Depression/mood,High,Self-guided resources,Yes,No,No,Crisis line,Completed,2,2,No,Low
+U0814,2026-04-22,55+,Windham,Crisis/safety,High,Crisis support,No,No,No,Crisis line,Pending,0,0,No,Moderate
+U0815,2026-03-24,25-34,Litchfield,Family conflict,Low,Crisis support,No,No,No,Peer support,Completed,13,16,Yes,Moderate
+U0816,2026-03-23,13-17,Litchfield,Trauma-related concern,Moderate,Peer support,Yes,No,No,Outpatient therapy,Pending,6,8,No,Low
+U0817,2026-02-12,18-24,New Haven,Anxiety/stress,Low,In-person therapy,No,No,No,Routine appointment,No response,26,26,No,Moderate
+U0818,2026-05-22,25-34,Middlesex,Trauma-related concern,Moderate,Peer support,Yes,No,Yes,Outpatient therapy,Abandoned,0,2,No,High
+U0819,2026-05-27,13-17,Fairfield,Family conflict,Moderate,Peer support,No,No,No,Telehealth appointment,Completed,13,13,Yes,Moderate
+U0820,2026-06-21,55+,Litchfield,Anxiety/stress,High,Telehealth,No,No,No,Crisis line,Completed,0,1,Yes,Low
+U0821,2026-04-21,55+,Middlesex,Anxiety/stress,Moderate,Peer support,No,No,No,Telehealth appointment,Completed,12,12,Yes,Low
+U0822,2026-05-01,55+,Fairfield,Depression/mood,Moderate,Telehealth,Yes,No,Yes,Telehealth appointment,Completed,9,10,Yes,High
+U0823,2026-04-18,25-34,Windham,School/work stress,Low,Crisis support,No,No,No,Digital check-in,Referred elsewhere,22,23,No,Low
+U0824,2026-06-11,18-24,Windham,Family conflict,Moderate,Peer support,No,No,No,Care navigator follow-up,Completed,5,8,Yes,Low
+U0825,2026-06-19,25-34,New London,Anxiety/stress,Low,Care navigator,No,Yes,No,Digital check-in,Abandoned,23,26,No,High
+U0826,2026-02-25,35-44,New London,Trauma-related concern,High,Telehealth,Yes,No,No,Urgent behavioral health center,Abandoned,0,1,No,Moderate
+U0827,2026-03-10,45-54,Litchfield,Family conflict,Moderate,In-person therapy,No,No,No,Community behavioral health referral,Pending,4,5,No,Low
+U0828,2026-06-04,25-34,Middlesex,Substance-related concern,Moderate,In-person therapy,No,No,Yes,Care navigator follow-up,Pending,7,7,No,Moderate
+U0829,2026-05-18,13-17,Hartford,Family conflict,Moderate,Telehealth,Yes,No,No,Care navigator follow-up,Pending,7,8,No,Moderate
+U0830,2026-05-15,55+,Tolland,Anxiety/stress,Low,In-person therapy,No,Yes,No,Self-guided resources,Completed,13,14,Yes,Low
+U0831,2026-03-11,13-17,Tolland,Trauma-related concern,Moderate,In-person therapy,Yes,No,No,Community behavioral health referral,Abandoned,2,2,No,High
+U0832,2026-06-05,35-44,New London,Trauma-related concern,Moderate,Crisis support,No,No,Yes,Care navigator follow-up,Completed,8,9,No,Low
+U0833,2026-01-24,25-34,New Haven,Depression/mood,Low,Crisis support,No,No,No,Peer support,No response,19,19,No,Moderate
+U0834,2026-02-27,13-17,Fairfield,Substance-related concern,Low,In-person therapy,No,No,No,Self-guided resources,Completed,25,27,No,Low
+U0835,2026-05-06,18-24,Hartford,Substance-related concern,Moderate,Peer support,Yes,No,No,Outpatient therapy,Completed,0,2,Yes,Low
+U0836,2026-06-26,35-44,Windham,Substance-related concern,Moderate,Care navigator,No,No,No,Community behavioral health referral,Completed,7,10,Yes,Moderate
+U0837,2026-05-23,45-54,New Haven,Trauma-related concern,High,In-person therapy,No,No,No,Crisis line,Abandoned,0,1,No,High
+U0838,2026-02-20,25-34,New London,Family conflict,Moderate,Care navigator,Yes,No,No,Community behavioral health referral,Completed,1,4,Yes,Low
+U0839,2026-03-24,35-44,Windham,Substance-related concern,Low,In-person therapy,No,Yes,No,Peer support,Pending,24,26,No,Low
+U0840,2026-03-26,13-17,New London,School/work stress,Moderate,Self-guided resources,No,Yes,No,Community behavioral health referral,Completed,0,2,Yes,Moderate
+U0841,2026-02-18,25-34,Hartford,Depression/mood,High,In-person therapy,No,No,Yes,Emergency support,Completed,1,2,Yes,Moderate
+U0842,2026-03-12,25-34,Fairfield,Crisis/safety,High,Peer support,No,No,No,Emergency support,Completed,0,1,Yes,Low
+U0843,2026-05-25,18-24,New Haven,Anxiety/stress,Low,Care navigator,No,No,No,Routine appointment,Completed,27,30,Yes,Low
+U0844,2026-02-07,45-54,New Haven,Depression/mood,Moderate,In-person therapy,No,No,No,Telehealth appointment,Completed,1,4,Yes,Moderate
+U0845,2026-05-24,18-24,New London,Family conflict,Low,Self-guided resources,No,No,No,Routine appointment,Referred elsewhere,23,23,No,Low
+U0846,2026-02-06,13-17,Litchfield,Trauma-related concern,Moderate,Crisis support,No,No,No,Telehealth appointment,Pending,7,10,No,Low
+U0847,2026-06-21,18-24,Windham,Crisis/safety,High,Peer support,Yes,No,No,Mobile crisis,Completed,0,1,Yes,Moderate
+U0848,2026-05-15,55+,New London,Depression/mood,Moderate,Self-guided resources,No,Yes,No,Care navigator follow-up,Pending,10,10,No,Moderate
+U0849,2026-05-03,35-44,Fairfield,Family conflict,Low,Crisis support,No,No,No,Self-guided resources,No response,26,29,No,Moderate
+U0850,2026-06-15,13-17,Tolland,Trauma-related concern,Moderate,Telehealth,Yes,No,No,Outpatient therapy,Referred elsewhere,12,13,No,Moderate
+U0851,2026-01-15,55+,Fairfield,Family conflict,Moderate,Care navigator,Yes,Yes,No,Outpatient therapy,Completed,12,12,Yes,Moderate
+U0852,2026-04-04,55+,New London,Substance-related concern,Moderate,Telehealth,No,No,No,Telehealth appointment,Abandoned,2,3,No,High
+U0853,2026-02-14,25-34,Windham,Family conflict,Low,Care navigator,No,No,No,Self-guided resources,Abandoned,14,16,No,High
+U0854,2026-06-28,18-24,Hartford,Anxiety/stress,Moderate,In-person therapy,No,Yes,Yes,Telehealth appointment,Pending,2,4,No,High
+U0855,2026-06-13,18-24,New London,Crisis/safety,High,In-person therapy,No,No,No,Mobile crisis,Completed,1,2,Yes,Moderate
+U0856,2026-05-25,25-34,Windham,Crisis/safety,High,Self-guided resources,No,No,No,Urgent behavioral health center,Completed,0,1,Yes,Moderate
+U0857,2026-06-25,18-24,Litchfield,Trauma-related concern,Moderate,Self-guided resources,No,No,No,Outpatient therapy,Completed,10,13,No,Moderate
+U0858,2026-05-09,35-44,Fairfield,Substance-related concern,High,Crisis support,No,Yes,No,Urgent behavioral health center,Completed,0,0,No,Moderate
+U0859,2026-05-31,18-24,Tolland,Crisis/safety,High,Crisis support,No,No,Yes,Crisis line,Referred elsewhere,0,2,No,Moderate
+U0860,2026-03-27,45-54,Windham,Crisis/safety,High,Care navigator,Yes,No,No,Emergency support,Abandoned,1,2,No,Moderate
+U0861,2026-05-28,25-34,Hartford,School/work stress,Low,In-person therapy,No,No,No,Routine appointment,Pending,24,26,No,Moderate
+U0862,2026-05-10,45-54,Fairfield,Anxiety/stress,Low,In-person therapy,No,No,No,Self-guided resources,No response,11,12,No,High
+U0863,2026-06-19,18-24,Fairfield,Crisis/safety,High,Peer support,Yes,Yes,No,Mobile crisis,Completed,0,1,Yes,High
+U0864,2026-03-20,35-44,Tolland,Anxiety/stress,Low,Self-guided resources,No,No,No,Peer support,Completed,26,28,Yes,Low
+U0865,2026-02-24,25-34,New London,Family conflict,Moderate,Self-guided resources,No,No,No,Telehealth appointment,Completed,7,8,No,Moderate
+U0866,2026-04-19,25-34,Litchfield,Substance-related concern,Moderate,Care navigator,Yes,No,No,Telehealth appointment,Abandoned,4,5,No,Moderate
+U0867,2026-01-01,35-44,Fairfield,Substance-related concern,Moderate,Crisis support,No,Yes,No,Community behavioral health referral,Completed,5,5,Yes,Low
+U0868,2026-02-08,35-44,New Haven,Crisis/safety,High,Peer support,No,No,No,Emergency support,Completed,0,0,Yes,Low
+U0869,2026-06-25,35-44,Tolland,School/work stress,Low,Crisis support,No,No,Yes,Routine appointment,Abandoned,8,11,No,High
+U0870,2026-01-14,45-54,Litchfield,Crisis/safety,High,Telehealth,No,Yes,No,Emergency support,Abandoned,0,2,No,Moderate
+U0871,2026-02-15,35-44,Hartford,Family conflict,Low,Crisis support,No,No,No,Routine appointment,Completed,27,29,No,Moderate
+U0872,2026-03-14,45-54,New London,Anxiety/stress,Low,In-person therapy,No,No,No,Routine appointment,Completed,12,15,Yes,Low
+U0873,2026-03-17,13-17,New Haven,Crisis/safety,High,In-person therapy,No,No,Yes,Crisis line,Completed,1,1,Yes,Moderate
+U0874,2026-02-07,18-24,New Haven,School/work stress,Low,Crisis support,No,No,No,Peer support,Completed,27,30,Yes,Low
+U0875,2026-05-12,35-44,New Haven,School/work stress,Low,In-person therapy,No,No,No,Self-guided resources,Abandoned,10,12,No,High
+U0876,2026-05-27,55+,Fairfield,Crisis/safety,Moderate,Peer support,No,No,No,Telehealth appointment,Completed,4,7,No,Moderate
+U0877,2026-05-09,25-34,New London,School/work stress,Low,Crisis support,No,Yes,No,Self-guided resources,Completed,19,20,Yes,Moderate
+U0878,2026-06-03,45-54,Tolland,Trauma-related concern,Low,Self-guided resources,No,No,Yes,Routine appointment,Abandoned,14,14,No,Moderate
+U0879,2026-06-02,18-24,Fairfield,Crisis/safety,High,Self-guided resources,No,No,No,Urgent behavioral health center,Completed,0,1,No,Moderate
+U0880,2026-04-10,25-34,New London,Crisis/safety,High,Peer support,No,No,Yes,Emergency support,Completed,0,2,Yes,Low
+U0881,2026-04-26,45-54,Windham,School/work stress,Low,In-person therapy,Yes,No,No,Digital check-in,Abandoned,20,20,No,Moderate
+U0882,2026-04-07,18-24,Tolland,Substance-related concern,Moderate,Care navigator,No,No,Yes,Outpatient therapy,Pending,5,5,No,Moderate
+U0883,2026-04-15,45-54,Tolland,Crisis/safety,High,In-person therapy,No,No,No,Urgent behavioral health center,Pending,2,2,No,Moderate
+U0884,2026-04-14,55+,Fairfield,Family conflict,Moderate,Self-guided resources,No,No,No,Outpatient therapy,Completed,6,8,No,Moderate
+U0885,2026-01-26,45-54,Tolland,Family conflict,Moderate,Telehealth,No,No,No,Telehealth appointment,Completed,10,11,Yes,Low
+U0886,2026-03-25,18-24,Windham,Substance-related concern,Moderate,Peer support,No,No,Yes,Care navigator follow-up,Pending,0,2,No,Moderate
+U0887,2026-03-03,18-24,Windham,Depression/mood,Moderate,In-person therapy,No,Yes,Yes,Telehealth appointment,Pending,1,2,No,Moderate
+U0888,2026-02-15,13-17,Hartford,Family conflict,Low,Self-guided resources,Yes,No,No,Peer support,Abandoned,11,14,No,High
+U0889,2026-06-23,35-44,Windham,Family conflict,Moderate,Self-guided resources,No,No,Yes,Community behavioral health referral,Abandoned,6,6,No,High
+U0890,2026-01-16,25-34,New Haven,Crisis/safety,High,Self-guided resources,No,No,Yes,Emergency support,Completed,0,2,Yes,Moderate
+U0891,2026-02-13,55+,Windham,Crisis/safety,High,In-person therapy,No,No,No,Mobile crisis,Completed,1,1,Yes,Moderate
+U0892,2026-03-08,45-54,New London,Crisis/safety,High,Telehealth,No,No,No,Urgent behavioral health center,Abandoned,2,2,No,High
+U0893,2026-02-26,55+,Fairfield,Crisis/safety,High,In-person therapy,No,No,No,Urgent behavioral health center,Pending,0,1,No,Low
+U0894,2026-06-05,35-44,Fairfield,Crisis/safety,Moderate,Peer support,No,No,No,Care navigator follow-up,Completed,4,4,Yes,Moderate
+U0895,2026-06-14,18-24,Windham,Depression/mood,Moderate,Crisis support,No,No,No,Community behavioral health referral,Referred elsewhere,11,12,No,Moderate
+U0896,2026-01-04,35-44,Windham,School/work stress,Moderate,Care navigator,No,No,No,Care navigator follow-up,Pending,11,11,No,Moderate
+U0897,2026-06-13,25-34,New Haven,Anxiety/stress,Moderate,Peer support,No,No,No,Outpatient therapy,Completed,12,13,Yes,Low
+U0898,2026-05-22,55+,Middlesex,Substance-related concern,High,In-person therapy,No,Yes,No,Emergency support,Completed,1,2,No,Moderate
+U0899,2026-06-26,18-24,New London,School/work stress,Low,Telehealth,Yes,No,No,Self-guided resources,Abandoned,29,30,No,High
+U0900,2026-02-23,35-44,Middlesex,Depression/mood,Moderate,Telehealth,No,No,Yes,Telehealth appointment,Completed,7,7,Yes,Moderate
+U0901,2026-05-19,45-54,Windham,Substance-related concern,Moderate,Telehealth,No,No,No,Telehealth appointment,Abandoned,10,13,No,High
+U0902,2026-03-06,25-34,Middlesex,Trauma-related concern,Moderate,Peer support,No,No,No,Community behavioral health referral,No response,8,10,No,Moderate
+U0903,2026-03-12,35-44,Fairfield,School/work stress,Moderate,In-person therapy,No,No,No,Outpatient therapy,Completed,9,9,No,Moderate
+U0904,2026-01-17,25-34,New London,Trauma-related concern,Moderate,Peer support,No,No,No,Outpatient therapy,Abandoned,5,5,No,High
+U0905,2026-05-16,18-24,Fairfield,Family conflict,Low,Peer support,No,No,No,Peer support,Completed,16,17,Yes,Low
+U0906,2026-05-13,55+,Litchfield,Family conflict,Moderate,Crisis support,No,No,No,Care navigator follow-up,Completed,7,9,Yes,Moderate
+U0907,2026-03-20,35-44,New London,Family conflict,Moderate,Telehealth,No,Yes,No,Telehealth appointment,Pending,6,8,No,Moderate
+U0908,2026-06-30,18-24,Windham,Depression/mood,Moderate,Peer support,No,No,No,Care navigator follow-up,Completed,5,8,Yes,Low
+U0909,2026-01-28,18-24,New London,Anxiety/stress,Low,Care navigator,No,No,No,Digital check-in,Abandoned,5,8,No,Moderate
+U0910,2026-05-31,25-34,Tolland,Family conflict,Low,In-person therapy,Yes,No,No,Digital check-in,Pending,16,16,No,Moderate
+U0911,2026-02-08,13-17,Litchfield,Substance-related concern,Moderate,Peer support,Yes,Yes,No,Care navigator follow-up,Pending,8,10,No,High
+U0912,2026-04-25,18-24,New Haven,School/work stress,Moderate,Self-guided resources,Yes,No,No,Care navigator follow-up,Completed,3,5,Yes,Moderate
+U0913,2026-04-16,45-54,Windham,Family conflict,Low,Peer support,No,Yes,No,Routine appointment,No response,4,7,No,Moderate
+U0914,2026-05-28,45-54,Windham,Crisis/safety,High,Care navigator,No,No,No,Crisis line,Abandoned,1,2,No,High
+U0915,2026-06-16,18-24,Litchfield,Depression/mood,High,Crisis support,No,No,No,Emergency support,Pending,1,2,No,Low
+U0916,2026-05-16,18-24,New London,Trauma-related concern,High,In-person therapy,No,No,Yes,Urgent behavioral health center,Completed,0,0,Yes,Low
+U0917,2026-05-30,18-24,New Haven,School/work stress,Moderate,Telehealth,No,No,No,Care navigator follow-up,Completed,12,13,Yes,Moderate
+U0918,2026-05-17,18-24,New London,Substance-related concern,Low,In-person therapy,Yes,Yes,No,Self-guided resources,No response,15,17,No,High
+U0919,2026-04-19,35-44,Hartford,Crisis/safety,High,Crisis support,No,No,Yes,Emergency support,Completed,0,0,No,Moderate
+U0920,2026-04-23,55+,Litchfield,Family conflict,Low,Self-guided resources,No,No,Yes,Peer support,Completed,23,23,Yes,Low
+U0921,2026-03-23,13-17,Tolland,Family conflict,Low,Crisis support,No,No,No,Routine appointment,No response,23,23,No,High
+U0922,2026-04-13,35-44,Hartford,Trauma-related concern,Moderate,Peer support,No,No,Yes,Care navigator follow-up,Pending,5,5,No,Low
+U0923,2026-06-15,45-54,Middlesex,Crisis/safety,High,Self-guided resources,No,Yes,Yes,Mobile crisis,Abandoned,0,0,No,High
+U0924,2026-06-19,13-17,Windham,Crisis/safety,High,In-person therapy,No,Yes,No,Mobile crisis,Completed,1,2,No,Moderate
+U0925,2026-03-20,55+,Fairfield,Family conflict,Moderate,Crisis support,No,No,No,Telehealth appointment,Referred elsewhere,7,7,No,Low
+U0926,2026-01-12,35-44,Windham,Substance-related concern,Moderate,Crisis support,No,No,No,Telehealth appointment,Completed,6,7,No,Low
+U0927,2026-05-18,35-44,Windham,Family conflict,Low,Self-guided resources,No,No,No,Digital check-in,Completed,14,15,Yes,Low
+U0928,2026-05-27,45-54,New Haven,Depression/mood,Moderate,In-person therapy,No,No,Yes,Telehealth appointment,Abandoned,13,13,No,Moderate
+U0929,2026-02-27,55+,Tolland,Crisis/safety,High,Self-guided resources,No,No,No,Urgent behavioral health center,Completed,0,0,Yes,Low
+U0930,2026-01-13,25-34,Middlesex,Trauma-related concern,Moderate,Self-guided resources,Yes,Yes,Yes,Outpatient therapy,Completed,1,4,Yes,Moderate
+U0931,2026-05-28,25-34,Fairfield,Family conflict,Low,Peer support,Yes,No,No,Self-guided resources,Abandoned,28,30,No,Moderate
+U0932,2026-03-29,45-54,Fairfield,Trauma-related concern,Low,Telehealth,No,No,Yes,Routine appointment,Completed,21,23,Yes,Moderate
+U0933,2026-02-28,45-54,Fairfield,Family conflict,Moderate,Crisis support,Yes,No,Yes,Care navigator follow-up,Completed,3,6,No,High
+U0934,2026-05-11,45-54,Litchfield,Depression/mood,Moderate,Care navigator,No,No,No,Care navigator follow-up,Pending,9,10,No,Low
+U0935,2026-02-28,45-54,Tolland,School/work stress,Moderate,In-person therapy,No,No,Yes,Outpatient therapy,Abandoned,11,12,No,High
+U0936,2026-03-13,13-17,New Haven,Anxiety/stress,High,Peer support,No,No,No,Emergency support,Completed,0,1,Yes,Moderate
+U0937,2026-05-23,35-44,Fairfield,School/work stress,Low,Self-guided resources,No,No,No,Self-guided resources,Completed,19,20,No,Low
+U0938,2026-04-18,18-24,Windham,Family conflict,Moderate,In-person therapy,Yes,No,No,Care navigator follow-up,Completed,1,4,Yes,Moderate
+U0939,2026-06-22,45-54,Windham,Crisis/safety,High,In-person therapy,Yes,Yes,No,Crisis line,Completed,0,2,Yes,High
+U0940,2026-01-19,45-54,Fairfield,Trauma-related concern,Low,Self-guided resources,No,No,No,Digital check-in,Abandoned,15,15,No,Moderate
+U0941,2026-06-27,35-44,Hartford,Trauma-related concern,High,Self-guided resources,No,No,Yes,Urgent behavioral health center,Abandoned,0,0,No,Moderate
+U0942,2026-01-27,13-17,New Haven,Trauma-related concern,High,Self-guided resources,No,No,No,Urgent behavioral health center,No response,0,1,No,High
+U0943,2026-05-05,13-17,New Haven,Depression/mood,Moderate,Care navigator,Yes,No,No,Community behavioral health referral,Pending,7,10,No,Low
+U0944,2026-06-14,45-54,Hartford,Anxiety/stress,Moderate,Crisis support,Yes,No,No,Community behavioral health referral,Completed,8,8,No,Low
+U0945,2026-06-10,55+,Windham,School/work stress,Moderate,Peer support,No,Yes,No,Telehealth appointment,Completed,10,12,No,Moderate
+U0946,2026-04-02,18-24,Middlesex,Trauma-related concern,High,Care navigator,No,No,No,Crisis line,Pending,0,1,No,Moderate
+U0947,2026-05-21,25-34,New London,School/work stress,Low,Telehealth,No,No,No,Digital check-in,Pending,7,9,No,Low
+U0948,2026-01-24,25-34,Fairfield,School/work stress,Low,In-person therapy,No,No,No,Peer support,Pending,12,15,No,Moderate
+U0949,2026-03-24,18-24,New Haven,Anxiety/stress,Low,Telehealth,No,No,No,Routine appointment,Pending,23,24,No,Low
+U0950,2026-06-03,45-54,New Haven,School/work stress,Low,Peer support,No,No,No,Digital check-in,Completed,8,11,No,Moderate
+U0951,2026-02-27,18-24,Middlesex,Family conflict,Moderate,Crisis support,Yes,Yes,No,Telehealth appointment,Abandoned,8,9,No,High
+U0952,2026-06-15,35-44,Fairfield,Trauma-related concern,Moderate,Care navigator,Yes,No,Yes,Community behavioral health referral,Pending,6,9,No,High
+U0953,2026-05-29,25-34,Litchfield,Family conflict,Moderate,Telehealth,No,No,No,Care navigator follow-up,Completed,12,14,Yes,Low
+U0954,2026-06-27,45-54,Middlesex,Depression/mood,Moderate,Self-guided resources,No,No,No,Outpatient therapy,Pending,0,3,No,Low
+U0955,2026-03-31,35-44,Tolland,School/work stress,Moderate,Telehealth,No,No,No,Care navigator follow-up,Pending,11,11,No,Moderate
+U0956,2026-02-13,55+,Hartford,Anxiety/stress,Moderate,Self-guided resources,No,Yes,No,Outpatient therapy,Completed,1,3,Yes,Low
+U0957,2026-06-03,18-24,Litchfield,Family conflict,Low,Telehealth,No,Yes,No,Digital check-in,Completed,14,16,Yes,Low
+U0958,2026-06-06,18-24,Fairfield,Anxiety/stress,Moderate,In-person therapy,No,Yes,No,Telehealth appointment,Abandoned,7,10,No,High
+U0959,2026-01-08,55+,Windham,School/work stress,Moderate,In-person therapy,No,No,Yes,Community behavioral health referral,Abandoned,8,11,No,Moderate
+U0960,2026-03-29,55+,New Haven,Depression/mood,Moderate,Peer support,No,No,No,Community behavioral health referral,Completed,2,3,Yes,Moderate
+U0961,2026-04-26,13-17,Litchfield,Trauma-related concern,Moderate,Crisis support,No,No,Yes,Telehealth appointment,Completed,10,12,Yes,Moderate
+U0962,2026-03-20,13-17,Fairfield,Anxiety/stress,Moderate,Care navigator,No,No,Yes,Outpatient therapy,Completed,2,5,Yes,Low
+U0963,2026-04-06,25-34,New London,Substance-related concern,Moderate,Telehealth,No,No,No,Outpatient therapy,Pending,9,9,No,Low
+U0964,2026-03-31,35-44,New Haven,School/work stress,Low,Self-guided resources,No,No,No,Peer support,No response,24,26,No,Moderate
+U0965,2026-05-22,55+,New Haven,Anxiety/stress,Low,Care navigator,No,No,No,Peer support,Pending,19,19,No,Moderate
+U0966,2026-01-24,25-34,Tolland,School/work stress,Moderate,Crisis support,No,No,No,Community behavioral health referral,Completed,13,14,Yes,Low
+U0967,2026-04-22,55+,Hartford,Family conflict,Low,Care navigator,Yes,Yes,No,Digital check-in,No response,13,16,No,Moderate
+U0968,2026-01-11,13-17,New London,Depression/mood,Low,Crisis support,No,No,No,Peer support,Abandoned,25,27,No,High
+U0969,2026-02-18,18-24,New Haven,Crisis/safety,Moderate,Crisis support,Yes,No,No,Outpatient therapy,Pending,8,10,No,Moderate
+U0970,2026-02-17,13-17,Middlesex,Depression/mood,High,Self-guided resources,Yes,No,No,Crisis line,Completed,0,0,Yes,Low
+U0971,2026-03-26,35-44,New London,Depression/mood,Low,In-person therapy,No,No,No,Self-guided resources,Abandoned,10,11,No,Moderate
+U0972,2026-06-17,25-34,Hartford,School/work stress,Moderate,Self-guided resources,No,Yes,No,Community behavioral health referral,Abandoned,5,6,No,Moderate
+U0973,2026-06-27,13-17,Fairfield,Family conflict,Low,Care navigator,No,Yes,No,Self-guided resources,Completed,27,27,No,Low
+U0974,2026-03-25,13-17,Tolland,Depression/mood,Low,In-person therapy,No,No,No,Digital check-in,Completed,14,16,Yes,Low
+U0975,2026-01-23,13-17,New Haven,Substance-related concern,High,In-person therapy,Yes,No,Yes,Emergency support,Completed,0,0,No,High
+U0976,2026-04-22,45-54,Hartford,Substance-related concern,Moderate,In-person therapy,No,No,No,Outpatient therapy,Abandoned,13,14,No,High
+U0977,2026-03-29,18-24,Fairfield,Trauma-related concern,Low,Self-guided resources,No,No,No,Self-guided resources,Completed,16,19,Yes,Low
+U0978,2026-02-19,45-54,Litchfield,Crisis/safety,High,Telehealth,No,No,Yes,Mobile crisis,Pending,0,2,No,Moderate
+U0979,2026-01-29,13-17,Tolland,School/work stress,Low,Telehealth,No,Yes,No,Routine appointment,Completed,18,18,Yes,Moderate
+U0980,2026-05-25,45-54,Tolland,Anxiety/stress,Moderate,Peer support,No,Yes,No,Telehealth appointment,Completed,11,11,No,Low
+U0981,2026-06-25,35-44,Litchfield,Substance-related concern,Moderate,In-person therapy,No,No,No,Care navigator follow-up,Pending,4,7,No,Low
+U0982,2026-02-06,35-44,Tolland,Crisis/safety,High,Self-guided resources,Yes,No,No,Mobile crisis,Completed,1,1,Yes,Moderate
+U0983,2026-05-19,35-44,Tolland,Trauma-related concern,Moderate,Crisis support,No,No,No,Community behavioral health referral,Pending,5,8,No,Moderate
+U0984,2026-04-04,35-44,Tolland,Crisis/safety,High,Peer support,No,No,No,Mobile crisis,Pending,1,2,No,Moderate
+U0985,2026-06-14,55+,Tolland,Crisis/safety,High,Care navigator,Yes,Yes,No,Urgent behavioral health center,Completed,0,2,Yes,High
+U0986,2026-04-21,18-24,Tolland,Depression/mood,Low,Peer support,Yes,No,No,Peer support,Abandoned,14,15,No,High
+U0987,2026-04-30,13-17,Hartford,Depression/mood,Low,Telehealth,Yes,No,No,Self-guided resources,Abandoned,28,28,No,High
+U0988,2026-03-26,35-44,Litchfield,Trauma-related concern,Moderate,Self-guided resources,No,No,No,Outpatient therapy,Completed,6,6,No,Moderate
+U0989,2026-02-14,45-54,Windham,Crisis/safety,High,Self-guided resources,No,Yes,No,Mobile crisis,Completed,1,1,Yes,Moderate
+U0990,2026-03-13,35-44,Fairfield,School/work stress,Moderate,Telehealth,Yes,Yes,No,Community behavioral health referral,Completed,3,3,Yes,Moderate
+U0991,2026-05-31,25-34,New Haven,School/work stress,High,Peer support,No,No,No,Emergency support,Referred elsewhere,0,0,No,Moderate
+U0992,2026-01-18,25-34,Windham,Depression/mood,Moderate,Telehealth,No,No,Yes,Outpatient therapy,Completed,10,12,No,Moderate
+U0993,2026-06-09,13-17,Middlesex,Substance-related concern,Moderate,Self-guided resources,Yes,No,No,Care navigator follow-up,Pending,10,10,No,Moderate
+U0994,2026-03-20,55+,Hartford,Crisis/safety,High,Peer support,No,Yes,No,Emergency support,Completed,2,2,Yes,Moderate
+U0995,2026-04-08,35-44,Litchfield,Depression/mood,Low,In-person therapy,No,Yes,No,Digital check-in,Referred elsewhere,15,17,No,Low
+U0996,2026-03-30,45-54,New Haven,School/work stress,Low,Telehealth,Yes,No,Yes,Digital check-in,Referred elsewhere,28,28,No,Moderate
+U0997,2026-02-02,45-54,New Haven,Trauma-related concern,High,In-person therapy,Yes,Yes,Yes,Mobile crisis,Completed,0,0,Yes,Moderate
+U0998,2026-05-30,18-24,New Haven,School/work stress,High,Self-guided resources,No,No,No,Crisis line,Completed,2,2,Yes,Low
+U0999,2026-01-24,55+,Windham,Anxiety/stress,Low,Care navigator,No,No,No,Digital check-in,Pending,16,17,No,Low
+U1000,2026-06-30,18-24,Middlesex,Depression/mood,Moderate,Self-guided resources,No,No,No,Community behavioral health referral,Completed,4,4,No,Moderate
