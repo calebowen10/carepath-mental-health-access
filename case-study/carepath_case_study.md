@@ -50,5 +50,10 @@ Design a non-diagnostic access and triage concept that helps users identify next
 ## Tools
 GitHub, Python, CSV, dashboarding tool, and design/wireframing tools.
 
-## Status
-In progress.
+## Mock Dataset
+
+To support the operations dashboard, I generated a synthetic intake dataset with 1,000 records. Each record represents a fictional CarePath user moving through the access and triage flow.
+
+The dataset includes user demographics, presenting need, urgency level, access barriers, recommended support pathway, referral status, wait time, follow-up completion, and no-show risk.
+
+This dataset is fully synthetic and does not contain real patient, client, or protected health information.
